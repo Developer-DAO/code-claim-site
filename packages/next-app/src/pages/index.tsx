@@ -80,6 +80,16 @@ const Home: NextPage = () => {
           align="center"
           justifyContent="center"
         >
+          <Flex
+            position="absolute"
+            top={["24px", "5vh"]}
+            right={["24px", "5vw"]}>
+            <a target="view_window" href="https://discord.com/channels/883478451850473483/883495211064524811" style={{ fontSize: '18px', color: '#08010D' }}>Discord</a>
+            <Box pl={["24px", "5vw"]}>
+              <a target="view_window" href="https://twitter.com/developer_dao?s=11" style={{ fontSize: '18px', color: '#08010D' }}>Twitter</a>
+            </Box>
+          </Flex>
+
           <Box m={["24px", "10vw"]}>
             <ClaimCard data={claimCardData} />
           </Box>
