@@ -1,4 +1,12 @@
-import { Box, Button, Flex, Image, Spacer, Text } from "@chakra-ui/react";
+import {
+  Box,
+  Button,
+  Flex,
+  Image,
+  Spacer,
+  Text,
+  useToast,
+} from "@chakra-ui/react";
 import { MouseEventHandler, useEffect, useState } from "react";
 import { useAccount, useSigner } from "wagmi";
 import MerkleTree from "merkletreejs";
@@ -9,6 +17,9 @@ import { CODEToken__factory } from "@/typechain";
 import { getContractAddress, maskWalletAddress } from "@/utils";
 
 import airdropData from "../data/airdrop";
+import { InfoToast } from "./toasts/info";
+import { ConfirmToast } from "./toasts/confirm";
+import { ErrorToast } from "./toasts/error";
 
 const TOKEN_DECIMALS = 18;
 
@@ -238,13 +249,14 @@ const Position = ({
 
 const contractAddress = getContractAddress();
 
-export const ClaimCard = () => {
+export const ClaimCard = ({ confettiRef }: { confettiRef: any }) => {
   const [cardState, setCardState] = useState(ClaimCardState.disconnected);
 
   const [{ data: signer, error, loading }] = useSigner();
   const [{ data: accountData }] = useAccount({
     fetchEns: true,
   });
+  const toast = useToast();
 
   const allocations =
     accountData?.address &&
@@ -387,11 +399,43 @@ export const ClaimCard = () => {
               try {
                 setCardState(ClaimCardState.isClaiming);
                 const tx = await tokenContract.claimTokens(numTokens, proof);
-                await tx.wait(1);
+                toast({
+                  position: "bottom-right",
+                  duration: null,
+                  render: () => (
+                    <InfoToast
+                      message="Claim in progress - "
+                      link_message="view on etherscan"
+                      link={`https://etherscan.io/tx/${tx.hash}`}
+                    />
+                  ),
+                });
+                await tx.wait(10);
+                toast.closeAll();
                 setCardState(ClaimCardState.claimed);
-                console.warn("TODO: show confetti etc");
+                confettiRef.current.hidden = false;
+                toast({
+                  position: "bottom-right",
+                  render: () => (
+                    <ConfirmToast
+                      message="Claim succesful - "
+                      link_message="view on etherscan"
+                      link={`https://etherscan.io/tx/${tx.hash}`}
+                    />
+                  ),
+                });
               } catch (e) {
                 setCardState(ClaimCardState.unclaimed);
+                toast({
+                  position: "bottom-right",
+                  render: () => (
+                    <ErrorToast
+                      message="Error when claiming tokens"
+                      link_message=""
+                      link=""
+                    />
+                  ),
+                });
                 console.error(`Error when claiming tokens: ${e}`);
                 console.log(e);
               }
