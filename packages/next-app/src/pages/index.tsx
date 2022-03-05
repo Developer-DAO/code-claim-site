@@ -45,7 +45,7 @@ const Home: NextPage = () => {
   80% { transform:translate(3%, 35%) }
   90% { transform:translate(-10%, 10%) }
 `;
-  const noiseAnimation = `${noiseMovement} infinite 10s linear`;
+  const noiseAnimation = `${noiseMovement} infinite 2s linear`;
 
   useEffect(() => {
     function handleResize() {
@@ -142,7 +142,7 @@ const Home: NextPage = () => {
               background: `url(/assets/noise-overlay.png)`,
               height: "1000%",
               width: "1000%",
-              opacity: "0.7",
+              opacity: "1",
               position: "fixed",
               zIndex: "1",
             }}
@@ -160,7 +160,7 @@ const Home: NextPage = () => {
               )}
             </Center>
             <SlideFade in={isConnected} offsetY="20px">
-              <Box m={["24px", "10vw"]}>
+              <Box m={["24px", "10vw"]} position="relative" zIndex="popover">
                 <ClaimCard
                   setConfetti={({ state }: { state: boolean }) =>
                     setShowConfetti(state)
