@@ -137,7 +137,7 @@ const Home: NextPage = () => {
               w={{ base: "100vw", lg: "50vw" }}
               h="100vh"
               m="0"
-              backgroundImage={`linear-gradient(0deg, rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url("/assets/bg-art.svg")`}
+              backgroundImage={`url("/assets/bg-art.png")`}
               backgroundRepeat="no-repeat"
               backgroundSize="cover"
               align="center"
