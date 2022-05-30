@@ -24,6 +24,7 @@ export type { CODEToken } from "./CODEToken";
 export type { MerkleProofWrapper } from "./MerkleProofWrapper";
 export type { MockERC20 } from "./MockERC20";
 export type { MockERC721 } from "./MockERC721";
+export type { Vesting } from "./Vesting";
 
 export { AccessControl__factory } from "./factories/AccessControl__factory";
 export { IAccessControl__factory } from "./factories/IAccessControl__factory";
@@ -48,3 +49,4 @@ export { CODEToken__factory } from "./factories/CODEToken__factory";
 export { MerkleProofWrapper__factory } from "./factories/MerkleProofWrapper__factory";
 export { MockERC20__factory } from "./factories/MockERC20__factory";
 export { MockERC721__factory } from "./factories/MockERC721__factory";
+export { Vesting__factory } from "./factories/Vesting__factory";
