@@ -11,16 +11,19 @@ const TOKEN_AMOUNT_VOTES_POAP = 399;
 const args = process.argv.slice(2);
 const nftHoldersPath = args[0];
 const votesAndPoapPath = args[1];
+const earlyContribPath = args[2];
 
 // TODO early contributors allocation, founding team, advisors, partners
 
 if (!nftHoldersPath) throw new Error('Missing nftHoldersPath as first argument!');
-if (!votesAndPoapPath) throw new Error('Missing earlyContribPath as second argument!');
+if (!votesAndPoapPath) throw new Error('Missing votesAndPoapPath as second argument!');
+if (!earlyContribPath) throw new Error('Missing earlyContribPath as third argument!');
 
 async function main() {
   // Load addresses
   const nftHolders = JSON.parse(fs.readFileSync(nftHoldersPath).toString());
   const votersAndPoapHolders = JSON.parse(fs.readFileSync(votesAndPoapPath).toString());
+  const earlyContributors = JSON.parse(fs.readFileSync(earlyContribPath).toString());
 
   // Create the airdrop structure required by the generator
   const airdrop: Record<string, number> = {};
@@ -43,7 +46,24 @@ async function main() {
     }
   });
 
-  //fs.writeFileSync('data/airdrop.json', JSON.stringify(airdrop));
+  earlyContributors.early_contributor_allocations.forEach(
+    ({ address, tokens }: { address: string; tokens: string }) => {
+      const formattedAddress = ethers.utils.getAddress(address);
+      const contribAmount = parseFloat(tokens.replace(',', ''));
+      let tgeAmount = contribAmount;
+      // https://forum.developerdao.com/t/draft-ratify-the-early-contributor-allocations-of-code/2065
+      // Any $CODE amount above 20,000 $CODE will be subject to vesting.
+      if (tgeAmount > 20000) {
+        tgeAmount = 20000;
+      }
+
+      if (!(formattedAddress in airdrop)) {
+        airdrop[formattedAddress] = tgeAmount;
+      } else {
+        airdrop[formattedAddress] += tgeAmount;
+      }
+    }
+  );
 
   // Add localhost addresses for testing
   const testAccounts = await getUnnamedAccounts();
@@ -57,7 +77,7 @@ async function main() {
   }
 
   // Write the input airdrop to file, to use it exactly like this in the UI
-  fs.writeFileSync(`data/out/airdrop_${process.env.HARDHAT_NETWORK}.json`, JSON.stringify({ airdrop }));
+  fs.writeFileSync(`data/out/airdrop_${process.env.HARDHAT_NETWORK}.json`, JSON.stringify({ airdrop }, null, 2));
 
   // Create the generate & process it
   const generator = new MerkleGenerator(TOKEN_DECIMALS, airdrop);
@@ -65,10 +85,12 @@ async function main() {
 
   console.info(`Generated Merkle root: ${merkleRoot}`);
 
-  const numTokens: string = ethers.utils.parseUnits(TOKEN_AMOUNT_NFT.toString(), TOKEN_DECIMALS).toString();
-  const leaf: Buffer = generateLeaf(ethers.utils.getAddress(testAccounts[0]), numTokens);
-  const proof: string[] = merkleTree.getHexProof(leaf);
-  console.warn(proof);
+  if (process.env.HARDHAT_NETWORK === 'localhost') {
+    const numTokens: string = ethers.utils.parseUnits(TOKEN_AMOUNT_NFT.toString(), TOKEN_DECIMALS).toString();
+    const leaf: Buffer = generateLeaf(ethers.utils.getAddress(testAccounts[0]), numTokens);
+    const proof: string[] = merkleTree.getHexProof(leaf);
+    console.warn(proof);
+  }
 
   await fs.writeFileSync(
     // Output to merkle.json

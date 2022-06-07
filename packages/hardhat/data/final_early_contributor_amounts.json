@@ -1,0 +1,1212 @@
+{
+    "early_contributor_allocations": [
+        {
+            "address": "0xc8f20c9105410069c11eded2c05e1b2608103b25",
+            "tokens": "40,000.00"
+        },
+        {
+            "address": "0x186ea56f0a40c5593a697b3e804968b8c5920ff3",
+            "tokens": "40,000.00"
+        },
+        {
+            "address": "0x9934f8ccfdf5e008ac8c07bf00582a833cd33b99",
+            "tokens": "40,000.00"
+        },
+        {
+            "address": "0x57dfa643313140b667df0811d7c70f67aa766038",
+            "tokens": "35,879.84"
+        },
+        {
+            "address": "0x95e17e827df0b113d11d48ee1771ff134f770da9",
+            "tokens": "35,097.22"
+        },
+        {
+            "address": "0x64ae4fd3e9906ee4a0189e3a393d19b3e35cdb67",
+            "tokens": "34,555.42"
+        },
+        {
+            "address": "0x0ed6cec17f860fb54e21d154b49daefd9ca04106",
+            "tokens": "29,558.73"
+        },
+        {
+            "address": "0xec57157adeb11f9822039a48a97b365bc22cbc49",
+            "tokens": "22,575.40"
+        },
+        {
+            "address": "0x1337c0ded812f195c75f17be485bfc61ab49c7f9",
+            "tokens": "19,143.94"
+        },
+        {
+            "address": "0xb7ae5de3e843a26ca764605f6bec916701f88556",
+            "tokens": "16,916.50"
+        },
+        {
+            "address": "0x3e8c686f499c877d8f4afb1215b6f0935796b986",
+            "tokens": "16,374.69"
+        },
+        {
+            "address": "0x4271b13727994c0a7d27bd536d612e1a82569a8f",
+            "tokens": "16,133.89"
+        },
+        {
+            "address": "0x52217bad145a7a80d510f24a9572781d260f33d3",
+            "tokens": "15,832.88"
+        },
+        {
+            "address": "0xf1eb2d9b9496813d9579048f19b07850947cf002",
+            "tokens": "15,832.88"
+        },
+        {
+            "address": "0x564b1ac3ac8407db3377bec75ad7062164c82db0",
+            "tokens": "15,772.68"
+        },
+        {
+            "address": "0x08f9edd4feb42efc388818e68dd525e87462fdb1",
+            "tokens": "15,652.28"
+        },
+        {
+            "address": "0xe0450b049f70841aec78ac6e3db7b0a753e22357",
+            "tokens": "15,531.88"
+        },
+        {
+            "address": "0xa1ca8926c1a9a78a3effae666e57b0065d78a604",
+            "tokens": "14,267.65"
+        },
+        {
+            "address": "0xc62e3910b060205fde6a02b2352d82019e843cc0",
+            "tokens": "11,739.21"
+        },
+        {
+            "address": "0xb7ee0b6889cd0590a590aab01485ea164db03307",
+            "tokens": "11,498.40"
+        },
+        {
+            "address": "0x9d85ed0d612ab149bbe1a38a3fc72aae3cac13f1",
+            "tokens": "11,438.20"
+        },
+        {
+            "address": "0xc8e2806a97413b5496a1ba6050b517cc98d0efca",
+            "tokens": "11,317.80"
+        },
+        {
+            "address": "0x7f4a86478cdd09aae270bf3800e06e67db50c76d",
+            "tokens": "11,317.80"
+        },
+        {
+            "address": "0x839490024e467fa3bac54eccb2a1c37eb3b7a88d",
+            "tokens": "11,197.40"
+        },
+        {
+            "address": "0x87666ede056dd739d36420eaac7245d521925835",
+            "tokens": "10,715.79"
+        },
+        {
+            "address": "0x57542716ca595fda87e031702fc0684df6754554",
+            "tokens": "10,595.39"
+        },
+        {
+            "address": "0x590724102b617a8d2caa13684c76acae4ca893f1",
+            "tokens": "10,294.38"
+        },
+        {
+            "address": "0x46f8351307482c162d7267f0fe08d5efd8ba3bf1",
+            "tokens": "9,692.37"
+        },
+        {
+            "address": "0x78798e79e356005802dc9a6f1c9f76f61ad35887",
+            "tokens": "9,632.17"
+        },
+        {
+            "address": "0xa93ae3a2ce1714f422ec2d799c48a56b2035c872",
+            "tokens": "9,210.76"
+        },
+        {
+            "address": "0x37bc0f3ca2087d80e04c8f1f58f99fb9b598bd99",
+            "tokens": "9,150.56"
+        },
+        {
+            "address": "0x2a1838745821fe8b26220b43290ef8003a27c543",
+            "tokens": "9,030.16"
+        },
+        {
+            "address": "0x24bf6580ed276b6ff33269dd361ee00fe3a2c912",
+            "tokens": "8,909.76"
+        },
+        {
+            "address": "0x6085d7ef56be668f1a6d5f1e7858b71df853e39f",
+            "tokens": "8,849.56"
+        },
+        {
+            "address": "0xea5aae54cf3d2519b9c2a48952fc0af65cf0ee55",
+            "tokens": "8,789.36"
+        },
+        {
+            "address": "0xdb48c58b7689b4b99d2bd062fc03c1297b8b302d",
+            "tokens": "8,729.16"
+        },
+        {
+            "address": "0xe32bac6e393199bb3881187f4feb52e28e973870",
+            "tokens": "8,729.16"
+        },
+        {
+            "address": "0x8a09fb23e1c8d0ff9c9fef0bcfc9b9e07b1f0667",
+            "tokens": "8,187.35"
+        },
+        {
+            "address": "0xfc5446efe679f109f2772e45ea623caa63791d5e",
+            "tokens": "8,006.74"
+        },
+        {
+            "address": "0x322af0da66d00be980c7aa006377fcaaeee3bdfd",
+            "tokens": "7,765.94"
+        },
+        {
+            "address": "0xb634af3ea952ae0d34932be1b2d1d2c8993def90",
+            "tokens": "7,705.74"
+        },
+        {
+            "address": "0x241e25c9d15b5e7fb007b5e028c4ce8694893870",
+            "tokens": "7,585.34"
+        },
+        {
+            "address": "0xdfa7d985aa3c73e6cd87cc088943627427c56c9e",
+            "tokens": "7,525.13"
+        },
+        {
+            "address": "0xc90c74fac03a1fd3d43ac94418019901f6a8dd56",
+            "tokens": "7,525.13"
+        },
+        {
+            "address": "0x64dcdba9e1ef3a37255a7a1b57aa157056ee033b",
+            "tokens": "7,525.13"
+        },
+        {
+            "address": "0x6fe6a50f1017d485a2750f1a69273d82b50f54c6",
+            "tokens": "7,224.13"
+        },
+        {
+            "address": "0x505c2b951d87b8969b1aa797997b96e5471a4e46",
+            "tokens": "6,622.12"
+        },
+        {
+            "address": "0xf95f8038eb7874cde88a0a9a8270fcc94f5c226e",
+            "tokens": "6,561.92"
+        },
+        {
+            "address": "0xad824fad1bbd09d833a0386545ca98c3a1f60a1f",
+            "tokens": "6,441.51"
+        },
+        {
+            "address": "0xadcf9a5c1b00f4375568b35cb26609b0762657ca",
+            "tokens": "6,381.31"
+        },
+        {
+            "address": "0x6a932f0ae2a7a49fb24b70c8eef6ec0808163345",
+            "tokens": "6,321.11"
+        },
+        {
+            "address": "0xf1086de491a6e986c058ce91e2757ded0d4e8366",
+            "tokens": "6,260.91"
+        },
+        {
+            "address": "0xca0f403d2a602e4d8c0a6a984b973d7958fbf463",
+            "tokens": "6,020.11"
+        },
+        {
+            "address": "0x755ee2e014ddf1b5903cb4ee6e51680a5a34c978",
+            "tokens": "5,899.71"
+        },
+        {
+            "address": "0xbf1a984d641c0718a1ca48c8a5d76d569c79af17",
+            "tokens": "5,598.70"
+        },
+        {
+            "address": "0xd6e4b6add79ef60714886ad59728e55fbb89636b",
+            "tokens": "5,598.70"
+        },
+        {
+            "address": "0x7aff5fde4312ac9874b89b2ba0ce1fa269b80de1",
+            "tokens": "5,538.50"
+        },
+        {
+            "address": "0x5952788924bf35b85d2baa9509349baaf3159cd7",
+            "tokens": "4,936.49"
+        },
+        {
+            "address": "0x11b8cc31f483cdf4741de8f3559a472e5fe2299a",
+            "tokens": "4,876.29"
+        },
+        {
+            "address": "0x1b3dff537b7d46a0d30b1d20b101c483586747aa",
+            "tokens": "4,755.88"
+        },
+        {
+            "address": "0x6002ca2e11b8e8c0f1f09c67f551b209eb51a0e4",
+            "tokens": "4,635.48"
+        },
+        {
+            "address": "0x2b58c475f9917be368e153cf489e2310e3934d29",
+            "tokens": "4,635.48"
+        },
+        {
+            "address": "0x2ae18bb021953428cc4df9f1f4c0797f8e8eabec",
+            "tokens": "4,575.28"
+        },
+        {
+            "address": "0x0e215844c1b0f1fe5863a8545235b6de33315d28",
+            "tokens": "4,394.68"
+        },
+        {
+            "address": "0x806164c929ad3a6f4bd70c2370b3ef36c64deaa8",
+            "tokens": "4,394.68"
+        },
+        {
+            "address": "0x073f6cbc0cc05b09fc3749aeb230d01d74db219d",
+            "tokens": "4,274.28"
+        },
+        {
+            "address": "0x6a4791244541227a3d80d5f5bb07b0ab7295f753",
+            "tokens": "4,274.28"
+        },
+        {
+            "address": "0x04e18fdbf180e38953b4126e40d89e5d3261efee",
+            "tokens": "4,214.08"
+        },
+        {
+            "address": "0x4bad6f2bb235a2c36344cac9c3a49bbcc9a63d4e",
+            "tokens": "3,973.27"
+        },
+        {
+            "address": "0x10ea167893cb51500ec829222e3d17a968feb650",
+            "tokens": "3,913.07"
+        },
+        {
+            "address": "0x1af56e6ce4f72765905586fa567b09ca4813c28d",
+            "tokens": "3,672.27"
+        },
+        {
+            "address": "0x60e9301074973bd9f2d5a03e84a75d1d462a0610",
+            "tokens": "3,491.66"
+        },
+        {
+            "address": "0x9ad33d2d173f224aa3a2e71d77041ee353c69b32",
+            "tokens": "3,371.26"
+        },
+        {
+            "address": "0x9a25755a945ccd8877d509c2cd32fad3090de60f",
+            "tokens": "3,250.86"
+        },
+        {
+            "address": "0x009077dd904e3e9fc458d97e3e37347926fe5e32",
+            "tokens": "3,250.86"
+        },
+        {
+            "address": "0x1ec1ccef3e1735bda3f4ba698e8a524aa7c93274",
+            "tokens": "3,190.66"
+        },
+        {
+            "address": "0x22ad46958b5e161d5a8912aa10dc0591e47d8893",
+            "tokens": "3,070.25"
+        },
+        {
+            "address": "0x194a494753f512df2ee2114307b36d5620c04137",
+            "tokens": "2,829.45"
+        },
+        {
+            "address": "0x941c64d7c46e83aef021a82fe3fbec61d37599aa",
+            "tokens": "2,648.85"
+        },
+        {
+            "address": "0x7b072a6a022478446ac76b01aa8e75ee547cc0f7",
+            "tokens": "2,588.65"
+        },
+        {
+            "address": "0x06a1e83832ad7de314b4f82efbc9591d0670a1e2",
+            "tokens": "2,588.65"
+        },
+        {
+            "address": "0x0c12522fcda861460bf1bc223eca108144ee5df4",
+            "tokens": "2,528.45"
+        },
+        {
+            "address": "0xf85ea6bb6c717e733e91760f19d5f4ac382eeed5",
+            "tokens": "2,468.24"
+        },
+        {
+            "address": "0xfea4661d76a9e559260cbf8c067e1f27b3e7d141",
+            "tokens": "2,408.04"
+        },
+        {
+            "address": "0xf0c18acf5c7c25eb24325f4f96d10fe2c2236a5a",
+            "tokens": "2,347.84"
+        },
+        {
+            "address": "0x6c41defc3189e776479a71f2648b0c90ae153110",
+            "tokens": "2,167.24"
+        },
+        {
+            "address": "0x8590c609942cd772b047025209955663470be132",
+            "tokens": "2,046.84"
+        },
+        {
+            "address": "0xc045e928d24ba4a1f93b75150d5eff576ca0c432",
+            "tokens": "1,926.43"
+        },
+        {
+            "address": "0x0cf661907e76c4921f7df302092697799dc63b24",
+            "tokens": "1,866.23"
+        },
+        {
+            "address": "0x5ce6bbb80b05a0fe2771e1ed6661d1159da913e3",
+            "tokens": "1,685.63"
+        },
+        {
+            "address": "0xc445e7afc5266f849e422ad462d8d85ae7445a97",
+            "tokens": "1,625.43"
+        },
+        {
+            "address": "0xc4e3cb70427aed3a21be30c75bb1563b002a47c3",
+            "tokens": "1,625.43"
+        },
+        {
+            "address": "0xe363fa6461c1a30d18c0cff22f7db95e5a54a900",
+            "tokens": "1,625.43"
+        },
+        {
+            "address": "0x954e128f3e3d85ba3adafb9d53e7c060833e2bb0",
+            "tokens": "1,565.23"
+        },
+        {
+            "address": "0x2116ba3b141244914e39d69257acf56a075d5ccc",
+            "tokens": "1,384.62"
+        },
+        {
+            "address": "0xcc39f4f4a764b118e1a39e2def59559e0f886aa3",
+            "tokens": "1,264.22"
+        },
+        {
+            "address": "0x0001196fccc127952fc5a6f3a5d5546c7487f78a",
+            "tokens": "1,264.22"
+        },
+        {
+            "address": "0xf56c68872e941c341025d9907d4821f9c8087166",
+            "tokens": "1,264.22"
+        },
+        {
+            "address": "0xd3122b4302b7bd2554774c71b6be1553b3a51239",
+            "tokens": "1,143.82"
+        },
+        {
+            "address": "0xf9931d0d62a693b848fcf61092b810fd229b15c8",
+            "tokens": "1,023.42"
+        },
+        {
+            "address": "0xdbef8f238aba02763edfe12564a204363e836dd6",
+            "tokens": "1,023.42"
+        },
+        {
+            "address": "0x70f296395ddaef1b27243c2cf78b935735ad9cc1",
+            "tokens": "1,023.42"
+        },
+        {
+            "address": "0x0df95d14a635058dd9dc7df51e4980b224b50bd2",
+            "tokens": "842.82"
+        },
+        {
+            "address": "0xafeb5f1f3db00f66e28ef38fcf9cde0d469fab4f",
+            "tokens": "842.82"
+        },
+        {
+            "address": "0x5dc4bfc95024398d11366308300f6fa7db3a53ee",
+            "tokens": "722.41"
+        },
+        {
+            "address": "0xa7828c5bab02c879ceb555f567d1833b34e1402b",
+            "tokens": "722.41"
+        },
+        {
+            "address": "0x05bc464dd87eae19406bec2edb934483302d97d4",
+            "tokens": "662.21"
+        },
+        {
+            "address": "0xede91918a5ca1c9ec607006cb7bb19b531f09bfd",
+            "tokens": "662.21"
+        },
+        {
+            "address": "0x80a0b3a16f8e4f320a4bc3af69053e723832b39b",
+            "tokens": "662.21"
+        },
+        {
+            "address": "0x2ce9b798c47086ef7691d3f15331949f401f9cc0",
+            "tokens": "662.21"
+        },
+        {
+            "address": "0x01ac3ff155739d34948f1af53f24524149c9d928",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x2a2cb6d5b469baeb5daabbd0bce297fd7041254a",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0xfcb23f995fa4c8121b806b7030f1f238d188f861",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x459da68fbf9e09c30ccdaacc377da70f4ea7bd27",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x294388d7f62065784666f797ca6919a4b8cef4ab",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x1fdcce71b0113195fd97e4073adbe82bb2689537",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x9f2567154cbc7dbfcd4b7585f082c58f2aad2ecb",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0xcf941f3e6a147eb62c0f978cadced28e30f0d446",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x97aa098205cc4f50eeb2cdbfa095f4ab239fd82b",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0xbcd2b563cdf515a52f64d2ef9e943b81beb91ce3",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0xb698be40b6ff59cecdc5472bcc6ba5dc8c087786",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x9038fe23c937d1610f90dba98659b8722cec432f",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0xfb7db943b7c2f08ef390956e33f9de5a8ed77ef3",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x1193c9f3e10defbd5cf956575aaf5abeacc1b068",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x8931d7f08fe5b04b3dfdf6ae694e4f20403cbd7f",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x33878e070db7f70d2953fe0278cd32adf8104572",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x6921340c3528d7aa848cdb1d455646b9e40b70cd",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0xb2f456886367c8e50566377ec6d9293d4da5bb81",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x53734e2140e062948cf05e86db8cee2190166062",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x30b1db5bf3acf0ee64b2b274d01ac219a1924534",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0xadd4d63e07bad8539db75166e80a2b0760b60e22",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x6f3a6d9867d6213056b55ce52b55514215deb343",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x43a4878215b0fb9bf687b5a7338d5d24d33dffb1",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x885ea391039e0fa3f6833a1f3b6d7433b5b69bb6",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x01974549c9b9a30d47c548a16b120b1caa7b586c",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0xb56e034553ce2590e98e41c5508c059ef8f7b5ee",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0xf284745f89916a1710ef4c26ff4fff20528cc486",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x4e18966fc3dc2521870aa29f4a2dfe26f3ea6868",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x0519fac64f8c4e99f598611aaa959aa0dce36371",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x24b3e9984eb93c207be67be0b632a24f07a0703f",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x3fcdca1dfb729c1450677a905de859285cd77ca6",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x8504a09352555ff1acf9c8a8d9fb5fdcc4161cbc",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x7bd7dad2d1f75ae105ef20c7177c4345b69ae971",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x17351248aadc7c33562e0e303c28288eb19cc8f1",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x72ca8cecae2a33f390f7ef6c3b5b4e0b036b14ef",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x747bae1e5b053cc6908f318587a2e317732e06e2",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x5e2f5601a5074accdfe4f79d2cd5e5cb24672c28",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0xd748a10439dee0a594b731aaf3c956e56391211a",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x6c13fc8ef50144a21702415d57ece0a09879fcfb",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x3401fa8dd22e32b0853354a4cd17681bdc520615",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x0813e1b0a5b1d0d67ceac68696591f5aecc613c7",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x721c7fffe9ac426a028e616677811f755fa99eba",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x2d1c0d03efebd916346927e465d38556c832eb81",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x52e5b829d93a0d37b47b737c562d9626c9b4c592",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x44b679df5cecd2f87584db73022052f35532b622",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0xe3e02123a4126de661af887eee222498c6442ffc",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x0efb002736b5bb34d190f00ca50ad42b0b1c6489",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0xf89fc7c27f885185afa09a38b29daa1bdaf32d4a",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x27ad04d192ef122a50d7ac96f6f1295c224dc15d",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x685d9638f22b552e1f9fe4e1325970fc07e52993",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0xac57c093c9e914e338cfa75e2803c0ba6f324426",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0xe894ec45fab106b9ecba507f050a4e107d29189a",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x0a51449654b8f2364931db66cb2b35bc66a66eba",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0xb277d567fac3648b97a3b3658d829d60ff052418",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0xe8e83ddfc373bbbd22edf5a80a30ec7ded8f2b47",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x7773a2ee2461226000646112331ff43315f1e055",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x7934b4344d6308dc7aecd2f8cfe006ed87550422",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x036f67fcc84eae8d0edba9aade6d8987cca48a4a",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x85684c11fd750506cd8783a7cdc19bc583ce62f8",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x07118ab669dd1bfb9909fc04422d0e4232a3483e",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x66e9f0b2079fc5acf5583d394436c9e21a9e9c57",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0xa432cf92dcb8636cbf697f1c1c8076bb7f82f314",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x358af75741f75140faedde986e5d21b11724bd42",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x6545a8cb2d809f8488e89480df5055fb176aa318",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0xffe885e77fd52cc2821ad2b7eef0051c53f4930e",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x11a0c86b9af717484973ae290c69d53b95fd9528",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x7f51c8447ee363d7be2705163cc81f524685a008",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0xa635c856481b4b6f202ff0a3ad7e4128f983e6ad",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x8865d9736ad52c6cdbbea9bcd376108284cfd0e4",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0xca0b1929a9eafcee7d676c95bd65c814d0da93b1",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0xedb7af625443bec75d53544e091ee3492ede8bc2",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0xdd59f271e2c905148dac57416d3ce781f8a39342",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x9eed555a7b54471a0808cec8d176980323674bc8",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x4525508a8d34d75ce7feb3afe254f936e70e9a18",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x02e052679578006663d478fae910081209b4026c",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x416365993481e52e0472e7417656276d4e147a00",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x0cf30daf2fb962ed1d5d19c97f5f6651f3b691c1",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x5ed86506ff1244bb3ac0c309d5fc5ae6c0375464",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0xe93735deb30aaa0810dfda7fb2b0e2115982b1d1",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x45a5f6c9372ef4644f5c45dab0b1a7619f4cf981",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x7f65c64ea807901349a7aebda4b1f8a282cca051",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x68d36dcbdd7bbf206e27134f28103abe7cf972df",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x49e53fb3d5bf1532febad88a1979e33a94844d1d",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x207053a23d86fe3697dc073461f293894a931a72",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x512aad1d0e1492a9c4075aba58ce1a944a74f973",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0xeffb282259291e05060927ec1205e49751a5a97a",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x2f7a3f2dda7fd36ad4d0c002c0e8d7b1dac668b7",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x2c17c733cefc0e618850b546d9df53cdbfa29725",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x698fa8dfa821489cf4b69225347f28a56e3c3129",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0xdb5d099a6d2f2bc090fcd258cc564861d552c387",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0xb4d8063b3446cec0c536208807241767a0ea6d18",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x54b6032105a6dbdcdb21ad4a2707a8909af153d7",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x7f9951a408c3384ae8d8e3f6a2d2f60f53e7eeb0",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x3f3a2cc56fc928712bc800e82b5ae3179ce550e2",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x17adbfe094b96e3665737597f673532c14c41883",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x32bb0a64427e16002d21592c07bbe2c9db683610",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0xa8d79ad0776af22ca8ce12402e02b187e31e5cf3",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x299e6717bda29b742bceb3eb3ac36eba9ad9ab31",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0xebec61e71c471ec30083a53675bec64358dc1605",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0xd7d8cf2415a894769fba9487fa6a36b627e6feec",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0xb7fa46bd0ae3ee01c5b4d17ca3723de061c988bc",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0xdc7c0fa6755bd03acbdb5ec0e4bda9b5bc1df22a",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0xdfff531873b104db994e69241830bd04c389d9df",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x946d6abff3c47a52263d9b0dd61dceae31f49e38",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0xf4ed1ef1f7a52dc7dd10a9b5d43f23748a1e8992",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x0f3e2ea3f28704d99629a4bc6279d98b691b840e",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x9a5b22e70d1513d1671ea4b70861b9dd4044af86",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0xa21d5b40678258f2aba9b8411f193dd9053ee27f",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x291aab2e87a52fcab64913329b9269da907640df",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x25619981ba7872278615de45966bd7ce248f1553",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x70f9e695823a748d0f492c86be093c220a8d487a",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0xf8771ba67f50c1b953e10be0b303bd87f7d4b91c",
+            "tokens": "602.01"
+        },
+        {
+            "address": "0x9ea0588c5c29cc4cbaf235d185095439f0722202",
+            "tokens": "541.81"
+        },
+        {
+            "address": "0xd4c4f5e108d09f4383f431d143e75ecabb703f2a",
+            "tokens": "541.81"
+        },
+        {
+            "address": "0x778af538bb7609d721e2a8a03a02e3a53dbb4f51",
+            "tokens": "541.81"
+        },
+        {
+            "address": "0xb5c1213ee9ddf312c98f6e94caf5c421c86abff3",
+            "tokens": "541.81"
+        },
+        {
+            "address": "0x727729c7a9ca5df70ac7dcb16a27dd2817956f26",
+            "tokens": "481.61"
+        },
+        {
+            "address": "0xaa85759554f6b3dbc274cc35621b52e85f644ca7",
+            "tokens": "481.61"
+        },
+        {
+            "address": "0xc99bd88526a29f574d297a931f8232b53b5670dd",
+            "tokens": "481.61"
+        },
+        {
+            "address": "0x242fbe89cafea9cc312650ddf610ee4d97782d50",
+            "tokens": "481.61"
+        },
+        {
+            "address": "0xeba4797ce6d748fc67fa8448610934a0413cc3b9",
+            "tokens": "481.61"
+        },
+        {
+            "address": "0x621752f25abd2e13136275f0059e4d9ae4dc08b7",
+            "tokens": "481.61"
+        },
+        {
+            "address": "0x96e82e6badec0b0594dd6bff7cccabfe42339dfe",
+            "tokens": "481.61"
+        },
+        {
+            "address": "0x75848282cd9eabbb28d2cedd1d7482878f92b334",
+            "tokens": "421.41"
+        },
+        {
+            "address": "0x30c7f4f7504d6366916f669cd8e731ed4df6c702",
+            "tokens": "421.41"
+        },
+        {
+            "address": "0x333d07032cb8b4235910cb5050a7715c6601ba57",
+            "tokens": "421.41"
+        },
+        {
+            "address": "0x6f533032f9087dac099e093200c827de6fc6ed8c",
+            "tokens": "421.41"
+        },
+        {
+            "address": "0x709680f22d2b95267764db0e1385b59525d7f4d8",
+            "tokens": "421.41"
+        },
+        {
+            "address": "0xe7b30a037f5598e4e73702ca66a59af5cc650dcd",
+            "tokens": "421.41"
+        },
+        {
+            "address": "0x3dd3e6e190e5cff0856de30bf63924dabdf51264",
+            "tokens": "421.41"
+        },
+        {
+            "address": "0xb5df726e490bc6a17ad44ffe32966678b16596e0",
+            "tokens": "421.41"
+        },
+        {
+            "address": "0x67836c26651282d9f4650ba80c60b379afdfc0a0",
+            "tokens": "421.41"
+        },
+        {
+            "address": "0xdfebf820bbbf2e90a15c92d815b5d8e10823976f",
+            "tokens": "421.41"
+        },
+        {
+            "address": "0xc7df6c8a2d851d20bc32238b26f886db7e1949da",
+            "tokens": "361.21"
+        },
+        {
+            "address": "0x094a9009fe93a85658e4b49604fd8177620f8cd8",
+            "tokens": "361.21"
+        },
+        {
+            "address": "0x2cf8b2a689b9be7dbe508089184bac178925d010",
+            "tokens": "361.21"
+        },
+        {
+            "address": "0xaa197624bf7283e2120ee9d25490485c11f17fd0",
+            "tokens": "361.21"
+        },
+        {
+            "address": "0x38f77b8a636eb70066d33937b12b801c97ed777f",
+            "tokens": "361.21"
+        },
+        {
+            "address": "0xcfc81145cb8c29d0787f4a086f75eb66b851453d",
+            "tokens": "361.21"
+        },
+        {
+            "address": "0x2245be89fc8fab94ed982e859aa3212a4e4eb7e5",
+            "tokens": "301.01"
+        },
+        {
+            "address": "0xdc04599b4aa011e3eadabf14d4a2daa053a58636",
+            "tokens": "301.01"
+        },
+        {
+            "address": "0x8bdb4d532736ff2092b6b1789354f515ec0ac650",
+            "tokens": "301.01"
+        },
+        {
+            "address": "0xda2f80295cf2252c58c8a4b9584931e911aaa04e",
+            "tokens": "301.01"
+        },
+        {
+            "address": "0x6c51a5ef1b6736b63c965b3057ae5c5b50de76d3",
+            "tokens": "301.01"
+        },
+        {
+            "address": "0x8071ed00bf71d8a9a3ff34befbbdff9df6f72e65",
+            "tokens": "240.80"
+        },
+        {
+            "address": "0x6face1420a8683be8341a2f43e29469199e54bee",
+            "tokens": "240.80"
+        },
+        {
+            "address": "0xce2ef28c65e5db090d75630c98a807da003fb36f",
+            "tokens": "240.80"
+        },
+        {
+            "address": "0xa40440af14537baa96e396cf76fb5737a7177475",
+            "tokens": "180.60"
+        },
+        {
+            "address": "0x9e935c13f2865a173e7a2c9e285db7cc3d8931d8",
+            "tokens": "180.60"
+        },
+        {
+            "address": "0xbd094bcd41a7385281698ea83a24224749de07be",
+            "tokens": "180.60"
+        },
+        {
+            "address": "0xa3ceca57e4bee224a7fe7aa46ae7f4418d54cf8d",
+            "tokens": "180.60"
+        },
+        {
+            "address": "0x9fe26e1164caf6e7ad9e8711f8e7ff1c8c7a3191",
+            "tokens": "180.60"
+        },
+        {
+            "address": "0x2caefce8cf1d7c3ab072ba13934fa6d08d54ba6f",
+            "tokens": "180.60"
+        },
+        {
+            "address": "0xeb85f308ad30dcd3ce91096cbb5ee1af09e902da",
+            "tokens": "180.60"
+        },
+        {
+            "address": "0x171c8be8b92674f7d7b0593aca4619a25a40b6f0",
+            "tokens": "180.60"
+        },
+        {
+            "address": "0xd0aee284d4b8ee835c3c4a9e78dc72d360ed453a",
+            "tokens": "180.60"
+        },
+        {
+            "address": "0xa1adf3dda8d7f62cbab65a86926ba46ac265cf2e",
+            "tokens": "180.60"
+        },
+        {
+            "address": "0xfc4c741feb8d60976fe8e4ba70b307b0061f3c00",
+            "tokens": "180.60"
+        },
+        {
+            "address": "0x096cf1784bdbbbbffa85db923f874d6fce4ca2d7",
+            "tokens": "180.60"
+        },
+        {
+            "address": "0x5ebfb1b4376e787d472af49ae070a1170f095ee9",
+            "tokens": "180.60"
+        },
+        {
+            "address": "0x261e1fbc2d5c7200de55289dfab9ebbc5fd585be",
+            "tokens": "180.60"
+        },
+        {
+            "address": "0xc673db815b92275efc6fa083fea7c55215519464",
+            "tokens": "180.60"
+        },
+        {
+            "address": "0xb0419291b62b2d31e12cde1572280dc328cbb831",
+            "tokens": "120.40"
+        },
+        {
+            "address": "0x9e33078f3398be71da0e0fba182af22eea0ebb12",
+            "tokens": "120.40"
+        },
+        {
+            "address": "0xd83f3ce852bcc65231054099a2270642700adadd",
+            "tokens": "120.40"
+        },
+        {
+            "address": "0x3c96a50281655cca28a11e624420a56b3031e037",
+            "tokens": "120.40"
+        },
+        {
+            "address": "0x5475b6f770272f3cabd6a882c300954c767c71f7",
+            "tokens": "120.40"
+        },
+        {
+            "address": "0xc9479e0e86abc7107a6dfbe63c3780fcdd9f8ed0",
+            "tokens": "120.40"
+        },
+        {
+            "address": "0xb62241a978d41e35f008b0e165cf5cbe43e9feeb",
+            "tokens": "120.40"
+        },
+        {
+            "address": "0xa3b9fe8647aa9d7009b9a7ad1d8d4a2381994efa",
+            "tokens": "120.40"
+        },
+        {
+            "address": "0xb56b915971b98ec7d869b6b3ad6f4b2fd9f12492",
+            "tokens": "120.40"
+        },
+        {
+            "address": "0x2f29c316e0fff43a236fb45a5c1233ce25e4f981",
+            "tokens": "120.40"
+        },
+        {
+            "address": "0x00666353a61c7ada7384b84ecfc532e1e3e705b2",
+            "tokens": "120.40"
+        },
+        {
+            "address": "0xcf2001a16b69543fd4bfb54f1d4528b6c5307a3b",
+            "tokens": "120.40"
+        },
+        {
+            "address": "0xe81b63111a88bf9a5b22832ef594ea7a2d487824",
+            "tokens": "120.40"
+        },
+        {
+            "address": "0x7baf9864ecb3cec21523508c86a1a3efce2408be",
+            "tokens": "120.40"
+        },
+        {
+            "address": "0x9a01d02be71726646f9cf9c4ff473dee40bf080d",
+            "tokens": "60.20"
+        },
+        {
+            "address": "0x0bb3cf3925d004686c287c37638f63a0cc3c9b4a",
+            "tokens": "60.20"
+        },
+        {
+            "address": "0x149f119543239d0b102bc60e80d0965232229234",
+            "tokens": "60.20"
+        },
+        {
+            "address": "0x6cc95aef3349c8277985cf010d54afd14b7f9961",
+            "tokens": "60.20"
+        },
+        {
+            "address": "0xc40ef903a95d7f6489ed387c051085eca657a2fd",
+            "tokens": "60.20"
+        },
+        {
+            "address": "0x272f1c8850df46d83b240d5d9f0dcf460980670e",
+            "tokens": "60.20"
+        },
+        {
+            "address": "0xb99623802408c30be6995bd8ed0f198cb679b837",
+            "tokens": "60.20"
+        },
+        {
+            "address": "0x27f2850ee3abfbbbb6c5857be954b0002a6e600e",
+            "tokens": "60.20"
+        },
+        {
+            "address": "0xba5261157ad666351c1114ef78ee611710629a33",
+            "tokens": "60.20"
+        },
+        {
+            "address": "0x7335cbb8fe37c51a6b781a5084c7bfb8fe72e208",
+            "tokens": "60.20"
+        },
+        {
+            "address": "0x8f004f5a2b12eb26cc77291aa879c42a4af1ae6d",
+            "tokens": "60.20"
+        },
+        {
+            "address": "0xd65c95fabe3286e416580a826213688a2620390b",
+            "tokens": "60.20"
+        },
+        {
+            "address": "0x56cb75b092b1866ffe4531151da6e233ae5811e2",
+            "tokens": "60.20"
+        },
+        {
+            "address": "0x96e597c1c6bacb7128945bab9d32fb5ea9526b87",
+            "tokens": "60.20"
+        },
+        {
+            "address": "0xd0a8fa32377ba4a31464ab04d31bfcf6c4853ea3",
+            "tokens": "60.20"
+        },
+        {
+            "address": "0x6b87ffcbe0dfc9009123160fe0c70f7b4f24ffd6",
+            "tokens": "60.20"
+        }
+    ]
+}

@@ -288,7 +288,7 @@ const airdrop = {
     "0x096CF1784BDBbbbffa85DB923F874D6FCE4CA2D7": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 180.6,
     },
     "0x65F06945784c032eA905e495b5F0b54a05662308": {
       nft: 400,
@@ -323,7 +323,7 @@ const airdrop = {
     "0x0CF30daf2Fb962Ed1d5D19C97F5f6651F3b691c1": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x380C2B3019B8Ee0A921b469B598CdBB16eA87d27": {
       nft: 400,
@@ -408,7 +408,7 @@ const airdrop = {
     "0xbf1a984D641C0718a1ca48C8a5d76d569c79AF17": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 5598.7,
     },
     "0x35977CF9b9a753d11e043452418D01F37D93084e": {
       nft: 400,
@@ -433,7 +433,7 @@ const airdrop = {
     "0x07118aB669Dd1BFB9909FC04422D0e4232a3483e": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xE8028B10318Aad63A7cA783E9d0C4b9188DED37a": {
       nft: 400,
@@ -703,12 +703,12 @@ const airdrop = {
     "0xEde91918A5cA1c9ec607006Cb7bb19B531f09Bfd": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 662.21,
     },
     "0x22Ad46958B5e161d5A8912Aa10dc0591E47D8893": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 3070.25,
     },
     "0xbE694be8e812ae1a99443b32041142C36597A772": {
       nft: 400,
@@ -728,7 +728,7 @@ const airdrop = {
     "0x2cf8b2A689B9bE7dbe508089184Bac178925d010": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 361.21,
     },
     "0x4296B22810c6F7C4b13412fbB3374432585e2BF4": {
       nft: 400,
@@ -1068,7 +1068,7 @@ const airdrop = {
     "0x322Af0da66D00be980C7aa006377FCaaEee3BDFD": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 7765.94,
     },
     "0x49d732f5d82801A53d53f10D27a2F5FB06cC17d4": {
       nft: 400,
@@ -1383,7 +1383,7 @@ const airdrop = {
     "0xdfa7D985aA3c73e6cD87cC088943627427C56C9E": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 7525.13,
     },
     "0xa2A359Dc7DaF72681A26D3d2A376dd3566D21EE5": {
       nft: 400,
@@ -2043,7 +2043,7 @@ const airdrop = {
     "0x8931D7F08fe5B04B3dfDF6Ae694E4F20403CbD7f": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x83F741fd08Ae9286589b3C618B9371F424196178": {
       nft: 400,
@@ -2903,7 +2903,7 @@ const airdrop = {
     "0xC90C74fAC03a1Fd3D43aC94418019901F6a8Dd56": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 7525.13,
     },
     "0xce0c80946c5052B88C228083a4ca78D9A8088D0f": {
       nft: 400,
@@ -3193,7 +3193,7 @@ const airdrop = {
     "0x1FdccE71b0113195fd97E4073aDBe82bb2689537": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xF6c733F33c390a02Ee93b3011D5e00260e15e226": {
       nft: 400,
@@ -3243,7 +3243,7 @@ const airdrop = {
     "0x6fe6a50f1017D485a2750f1a69273d82b50f54C6": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 7224.13,
     },
     "0xB95f02FaeE563f2C3a05Ebf003E6213808694f4b": {
       nft: 400,
@@ -3383,7 +3383,7 @@ const airdrop = {
     "0x2aE18bb021953428Cc4dF9F1F4C0797F8E8EaBec": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 4575.28,
     },
     "0x01bDd23448f53594bcb8163055155194177c0fE2": {
       nft: 400,
@@ -3543,7 +3543,7 @@ const airdrop = {
     "0x241e25c9d15b5E7FB007B5E028C4ce8694893870": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 7585.34,
     },
     "0x6106443604864D9cAE7fA448DBfD205DEEd9fEF9": {
       nft: 400,
@@ -3823,7 +3823,7 @@ const airdrop = {
     "0x6C41defc3189e776479a71F2648B0c90ae153110": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 2167.24,
     },
     "0x678b6C168E0Bb3Af696dd467560FF2630BD53662": {
       nft: 400,
@@ -3868,7 +3868,7 @@ const airdrop = {
     "0xC7df6C8A2D851d20bC32238B26F886dB7E1949da": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 361.21,
     },
     "0x9E852cFe2c48138f3E6F133A348833c7aFB3EA8d": {
       nft: 400,
@@ -3913,7 +3913,7 @@ const airdrop = {
     "0x9fe26E1164CAF6E7AD9E8711f8e7ff1c8C7A3191": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 180.6,
     },
     "0x9c281902C8dEFdD2277993318EE702dA5B708752": {
       nft: 400,
@@ -3948,7 +3948,7 @@ const airdrop = {
     "0xb7AE5De3e843a26Ca764605f6Bec916701f88556": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 16916.5,
     },
     "0x4e8AD3c90f026E4d034b81BA0e1A929E77D80b36": {
       nft: 400,
@@ -3993,7 +3993,7 @@ const airdrop = {
     "0x00666353a61c7Ada7384b84ECfc532E1E3e705B2": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 120.4,
     },
     "0xC6D568bCF2df54b71F01Fc4948a80D741d0f8Db2": {
       nft: 400,
@@ -4023,7 +4023,7 @@ const airdrop = {
     "0x590724102b617A8D2caa13684C76ACAe4cA893F1": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 10294.38,
     },
     "0x46a8E86e3195315E438C7d38176992e9CF46a5Dc": {
       nft: 400,
@@ -4058,7 +4058,7 @@ const airdrop = {
     "0x2d1C0d03EfeBd916346927E465D38556c832EB81": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x57C2570F1a4228a3aEff4fE533826C2A04a2D52f": {
       nft: 400,
@@ -4248,7 +4248,7 @@ const airdrop = {
     "0xaFeb5f1f3DB00F66e28ef38FCf9cdE0D469FAb4F": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 842.82,
     },
     "0x638bd18461e7b240101D7C9C1EE19CF49E268579": {
       nft: 400,
@@ -4333,7 +4333,7 @@ const airdrop = {
     "0xA1cA8926c1A9A78a3EFfAE666E57b0065d78A604": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 14267.65,
     },
     "0xEC0a73Cc9b682695959611727dA874aFd8440C21": {
       nft: 400,
@@ -4608,7 +4608,7 @@ const airdrop = {
     "0x5E2f5601A5074AcCDFe4f79D2Cd5E5cB24672c28": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xf89b81CF785B7D8D461E892e5B97FABba3934AcC": {
       nft: 400,
@@ -4648,7 +4648,7 @@ const airdrop = {
     "0x0DF95D14A635058dd9Dc7dF51E4980b224b50Bd2": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 842.82,
     },
     "0x0ec22E4c8A5aC71Df8ba792708E9638048C3ed87": {
       nft: 400,
@@ -4713,7 +4713,7 @@ const airdrop = {
     "0x57542716CA595fDa87e031702fc0684DF6754554": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 10595.39,
     },
     "0x9b0E7954e36F9262DDe23f46624D746Be965C234": {
       nft: 400,
@@ -4763,7 +4763,7 @@ const airdrop = {
     "0x242Fbe89cAFea9CC312650dDf610EE4D97782d50": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 481.61,
     },
     "0x505EeC454F132B2633e9284773C05Bf560083940": {
       nft: 400,
@@ -4913,7 +4913,7 @@ const airdrop = {
     "0x87666eDe056DD739d36420Eaac7245D521925835": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 10715.79,
     },
     "0x2F25382E7206b8aBb3502d3548136F6033a69919": {
       nft: 400,
@@ -5023,7 +5023,7 @@ const airdrop = {
     "0x64ae4fD3E9906ee4A0189e3A393d19b3e35cdb67": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 20000,
     },
     "0x9A6FC94cc1056E5696a538A6Ec78247be731e233": {
       nft: 400,
@@ -5223,7 +5223,7 @@ const airdrop = {
     "0xb5Df726e490BC6a17aD44FFe32966678b16596E0": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 421.41,
     },
     "0xed4B17e5A48cbBC8684A0873C02475e54F3EE915": {
       nft: 400,
@@ -5233,7 +5233,7 @@ const airdrop = {
     "0xD83F3CE852bcC65231054099A2270642700ADADD": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 120.4,
     },
     "0x8461dFdB0eDb69DfC837979d9a206A6f97eE96Db": {
       nft: 400,
@@ -5428,7 +5428,7 @@ const airdrop = {
     "0x7F4a86478CDD09Aae270bF3800E06e67DB50c76d": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 11317.8,
     },
     "0x08B745e2a7B39333ac451E6E99Cd8420A5286F59": {
       nft: 400,
@@ -5833,7 +5833,7 @@ const airdrop = {
     "0x0ED6Cec17F860fb54E21D154b49DAEFd9Ca04106": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 20000,
     },
     "0x0fBC5A8097c358CF063998b4794240F22C9a342F": {
       nft: 400,
@@ -5953,7 +5953,7 @@ const airdrop = {
     "0x75848282CD9EabbB28d2cEdD1d7482878F92b334": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 421.41,
     },
     "0xa58ff389E72191aA3600aBc2F47dD2E7925F5215": {
       nft: 400,
@@ -6003,7 +6003,7 @@ const airdrop = {
     "0xFea4661d76a9E559260cbf8c067E1F27B3e7d141": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 2408.04,
     },
     "0xcBC01F5B33DAAA846108b71Cb0672D1E6c4Fc829": {
       nft: 400,
@@ -6178,7 +6178,7 @@ const airdrop = {
     "0x9934f8CcFdF5E008aC8c07bf00582A833cd33b99": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 20000,
     },
     "0x0CA0dAe538BB788BbC735C6f581E322D1e52181C": {
       nft: 400,
@@ -6188,7 +6188,7 @@ const airdrop = {
     "0x3E8c686F499C877D8f4aFB1215b6f0935796b986": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 16374.69,
     },
     "0x1e2Ce012b27d0c0d3e717e943EF6e62717CEc4ea": {
       nft: 400,
@@ -6323,7 +6323,7 @@ const airdrop = {
     "0xf9931D0D62A693b848FcF61092b810fd229b15c8": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 1023.42,
     },
     "0x96772a11D49516630FBB9d2a92647CA7eBefA1CE": {
       nft: 400,
@@ -6478,7 +6478,7 @@ const airdrop = {
     "0xa1aDf3ddA8D7F62Cbab65A86926ba46Ac265cF2e": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 180.6,
     },
     "0x1516721b036567F120e32904ba6405860e3B2681": {
       nft: 400,
@@ -6488,7 +6488,7 @@ const airdrop = {
     "0x46F8351307482C162d7267F0fe08d5efd8Ba3BF1": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 9692.37,
     },
     "0xbBBD1c1B14B1B98d4499b98F4C8675e401cB09F1": {
       nft: 400,
@@ -6898,7 +6898,7 @@ const airdrop = {
     "0xb7eE0B6889CD0590A590AAb01485EA164Db03307": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 11498.4,
     },
     "0x268d2Ba08145B4b956d12344f52204684e5CaBCF": {
       nft: 400,
@@ -7153,7 +7153,7 @@ const airdrop = {
     "0x33878e070db7f70D2953Fe0278Cd32aDf8104572": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x032F84aEfF59ddEBC55797F321624826d873bF65": {
       nft: 400,
@@ -7278,7 +7278,7 @@ const airdrop = {
     "0xeC57157adeb11F9822039A48a97B365bc22cbc49": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 20000,
     },
     "0x122d7cd5a317c7baC1bE70B88Fa956b46E466567": {
       nft: 400,
@@ -7308,12 +7308,12 @@ const airdrop = {
     "0x49E53Fb3d5bf1532fEBAD88a1979E33A94844d1d": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x3F3a2Cc56Fc928712bc800e82b5AE3179Ce550E2": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x5241aa99a776866296D1d695C02bB2E31B3Ff998": {
       nft: 400,
@@ -7338,17 +7338,17 @@ const airdrop = {
     "0x459dA68FBF9e09c30ccDaACC377dA70F4Ea7bd27": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xD65c95fABE3286e416580a826213688a2620390b": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 60.2,
     },
     "0x7773a2ee2461226000646112331ff43315F1E055": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xEF7968553EF68844Ce012B928e5e2542F920E6ea": {
       nft: 400,
@@ -7378,12 +7378,12 @@ const airdrop = {
     "0x2C17c733CeFC0e618850B546d9df53cdbFa29725": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x698Fa8dFa821489CF4B69225347F28A56E3c3129": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xBDa5baFAA1776d0c8ea849b35B1E50Bf988E3B03": {
       nft: 400,
@@ -7448,7 +7448,7 @@ const airdrop = {
     "0x68d36DcBDD7Bbf206e27134F28103abE7cf972df": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x68035e42185Bc87A6843CA89a730187AaC674df0": {
       nft: 400,
@@ -7583,7 +7583,7 @@ const airdrop = {
     "0xeFFB282259291e05060927ec1205E49751a5a97A": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xf3Fbb2c0A711529eF9b81fE59a5Ef5b8f1E0eB27": {
       nft: 400,
@@ -7903,7 +7903,7 @@ const airdrop = {
     "0x0CF661907E76C4921f7dF302092697799dc63B24": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 1866.23,
     },
     "0x5e3666054B351ffFF4c49812F32972FC6ecd1293": {
       nft: 400,
@@ -7933,7 +7933,7 @@ const airdrop = {
     "0x9ad33d2D173f224Aa3A2e71D77041EE353c69b32": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 3371.26,
     },
     "0x50295De687bB53020f62c3e8aafAF6Bac019A8e1": {
       nft: 400,
@@ -8163,7 +8163,7 @@ const airdrop = {
     "0xB698be40b6fF59CecDC5472BCc6ba5dC8C087786": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x7560749351EA673a7054b746Ff49c794597258f6": {
       nft: 400,
@@ -8423,7 +8423,7 @@ const airdrop = {
     "0xd0AEe284D4B8Ee835C3C4A9E78DC72D360ED453a": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 180.6,
     },
     "0x5FFeaec76Bef4F7F990Fb979E03409b964964970": {
       nft: 400,
@@ -8483,7 +8483,7 @@ const airdrop = {
     "0x2116BA3b141244914e39D69257acF56A075d5CCC": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 1384.62,
     },
     "0x3E13af338688feA989DB235AFAA6dD9C2F8b41eF": {
       nft: 400,
@@ -8513,7 +8513,7 @@ const airdrop = {
     "0x0c12522fCDa861460BF1BC223eCa108144EE5Df4": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 2528.45,
     },
     "0x5E05f0fd512E52e595BAaA607d3deBC10b213952": {
       nft: 400,
@@ -8543,7 +8543,7 @@ const airdrop = {
     "0x7afF5FdE4312Ac9874b89B2ba0cE1FA269B80de1": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 5538.5,
     },
     "0xca68ccfCc97A8075ae7163A7b86A5Ee1aa09A4Ca": {
       nft: 400,
@@ -8683,7 +8683,7 @@ const airdrop = {
     "0xadcF9A5c1B00f4375568B35cb26609b0762657Ca": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 6381.31,
     },
     "0x773E6D00C152895BCfB829e19186b4d837556a95": {
       nft: 400,
@@ -8793,7 +8793,7 @@ const airdrop = {
     "0x8bDb4D532736ff2092B6b1789354f515ec0Ac650": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 301.01,
     },
     "0xf1746f24B6302CAbE6ed80A3A3BA55ba79cA0bB6": {
       nft: 400,
@@ -8848,7 +8848,7 @@ const airdrop = {
     "0x7335cBb8fe37c51a6B781A5084C7bFB8fE72e208": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 60.2,
     },
     "0x532FAAc0951a5874CBBDbB50B8896525b9BFaB3C": {
       nft: 400,
@@ -8883,7 +8883,7 @@ const airdrop = {
     "0x9E33078f3398be71da0E0fba182Af22eEA0EbB12": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 120.4,
     },
     "0x6Bc6970964cb57c7BaBd442De8ff68Db3C8Cdde5": {
       nft: 400,
@@ -8938,7 +8938,7 @@ const airdrop = {
     "0xe363fa6461c1A30d18C0CFF22F7dB95e5A54a900": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 1625.43,
     },
     "0x2766F8eCF6167720f7F36703467E6ff5aA05B887": {
       nft: 400,
@@ -8953,7 +8953,7 @@ const airdrop = {
     "0xc40Ef903A95d7F6489ed387c051085ECa657a2fd": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 60.2,
     },
     "0x26c2eD0A03BA6996FaB91faefD44f1d85E653dAE": {
       nft: 400,
@@ -8978,7 +8978,7 @@ const airdrop = {
     "0x5ce6bbb80b05a0Fe2771E1ed6661d1159da913E3": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 1685.63,
     },
     "0xF914A32260C4903222ebb79b237f90A76DD78189": {
       nft: 400,
@@ -9103,7 +9103,7 @@ const airdrop = {
     "0x946d6aBfF3c47A52263D9b0dD61dcEaE31F49E38": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x31DE6E974a6481Ef197433D615B5F85661B9CaB2": {
       nft: 400,
@@ -9168,7 +9168,7 @@ const airdrop = {
     "0x57Dfa643313140B667dF0811d7c70f67aA766038": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 20000,
     },
     "0x1801edF1E4b83e1590ffC1AEFd9782cE521cba27": {
       nft: 400,
@@ -9438,7 +9438,7 @@ const airdrop = {
     "0xE7b30A037F5598E4e73702ca66A59Af5CC650Dcd": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 421.41,
     },
     "0x31cA6CA7f7A3298Bc6c5103Aa45847f34e382a1C": {
       nft: 400,
@@ -9498,7 +9498,7 @@ const airdrop = {
     "0x78798e79e356005802Dc9a6f1c9F76f61ad35887": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 9632.17,
     },
     "0xB9352357f5e1d3821124f6B1a93AE82adEDD3402": {
       nft: 400,
@@ -9773,7 +9773,7 @@ const airdrop = {
     "0x1EC1CcEF3e1735bdA3F4BA698e8a524AA7c93274": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 3190.66,
     },
     "0xeF8305E140ac520225DAf050e2f71d5fBcC543e7": {
       nft: 400,
@@ -9883,7 +9883,7 @@ const airdrop = {
     "0xa432cf92DCB8636cbF697F1c1C8076Bb7F82F314": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xF1d82CF1e2E23F7BED3aF2b3e717d35FFB4CDc38": {
       nft: 400,
@@ -10003,7 +10003,7 @@ const airdrop = {
     "0xB99623802408c30Be6995bd8ed0f198Cb679b837": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 60.2,
     },
     "0xcd805F0A5F1A26e3B344b31539AAF84f527Bf2DB": {
       nft: 400,
@@ -10013,7 +10013,7 @@ const airdrop = {
     "0xc9479E0E86AbC7107A6dFBe63C3780fcdD9f8Ed0": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 120.4,
     },
     "0x5bFAd8B41F8172375DB73344b53318Fa290B1030": {
       nft: 400,
@@ -10168,7 +10168,7 @@ const airdrop = {
     "0x6002cA2e11B8e8c0F1F09c67F551B209eb51A0E4": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 4635.48,
     },
     "0xC914a5D2a7195cfA375a350d6Ae6eDd97b05Cf52": {
       nft: 400,
@@ -10453,7 +10453,7 @@ const airdrop = {
     "0xcf941f3e6a147Eb62c0f978CADCeD28e30F0D446": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xAe11C10C954494B9BB202302Ef6F979b5A6c18f3": {
       nft: 400,
@@ -10463,7 +10463,7 @@ const airdrop = {
     "0xCa0F403D2A602e4D8c0A6A984b973D7958FBF463": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 6020.11,
     },
     "0xBB959f3e8Dae3D06BFCbD4EDd25845a7de571216": {
       nft: 400,
@@ -10508,7 +10508,7 @@ const airdrop = {
     "0xc4E3cb70427AEd3a21be30C75Bb1563b002a47c3": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 1625.43,
     },
     "0x8a5847fd0e592B058c026C5fDc322AEE834B87F5": {
       nft: 400,
@@ -10838,7 +10838,7 @@ const airdrop = {
     "0xc445e7afc5266f849e422ad462d8d85aE7445a97": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 1625.43,
     },
     "0x9fE15c2783529777253C8a7C62eAE3687ff9688c": {
       nft: 400,
@@ -10883,7 +10883,7 @@ const airdrop = {
     "0x1337C0DEd812F195C75F17BE485BFc61Ab49c7F9": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 19143.94,
     },
     "0x0b7F1c8Bb3c77EA90E53F738E092481eA1bD761A": {
       nft: 400,
@@ -10958,7 +10958,7 @@ const airdrop = {
     "0x009077Dd904e3E9fC458d97e3E37347926fE5e32": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 3250.86,
     },
     "0x82427A5027D9D54134c8e24847D7DeC9FD552e13": {
       nft: 400,
@@ -11018,7 +11018,7 @@ const airdrop = {
     "0x9A01d02be71726646f9cf9c4ff473dEE40BF080d": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 60.2,
     },
     "0x0BB602F88BF886282fF69d4Cec937cc2A7d9E19A": {
       nft: 400,
@@ -11088,7 +11088,7 @@ const airdrop = {
     "0xcF2001A16B69543fD4BFb54f1d4528b6c5307a3b": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 120.4,
     },
     "0x56dd5011bBE71Ab5397f78147f941706d35320aE": {
       nft: 400,
@@ -11203,7 +11203,7 @@ const airdrop = {
     "0xa3CeCa57E4BEE224A7FE7aa46AE7f4418d54cF8d": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 180.6,
     },
     "0x07C56F4428682D0F84630547CeE8dD285dA377Bc": {
       nft: 400,
@@ -11213,7 +11213,7 @@ const airdrop = {
     "0xAa197624BF7283e2120Ee9d25490485C11F17FD0": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 361.21,
     },
     "0x15F6b53C9FDc513DbEd433f1937f0F9903101B7e": {
       nft: 400,
@@ -11328,7 +11328,7 @@ const airdrop = {
     "0x778af538BB7609D721E2A8a03A02e3a53dBb4F51": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 541.81,
     },
     "0x1952B3ae9814ab552d9b3898f591cB93CA908249": {
       nft: 400,
@@ -11363,7 +11363,7 @@ const airdrop = {
     "0x4271B13727994c0A7D27bd536D612E1A82569A8f": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 16133.89,
     },
     "0x66C6bc1f91D721B0D588eEEcf0E4Ff9784B4Fcae": {
       nft: 400,
@@ -11433,7 +11433,7 @@ const airdrop = {
     "0xD3122b4302B7BD2554774C71B6BE1553b3A51239": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 1143.82,
     },
     "0xbd15239861642c22D6aC4C8760e23642B4dD8900": {
       nft: 400,
@@ -11603,7 +11603,7 @@ const airdrop = {
     "0xDb48c58B7689b4B99d2bD062fC03C1297B8b302D": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 8729.16,
     },
     "0x89324327750e10A040A05e5286A5fB66A9Ba71C4": {
       nft: 400,
@@ -12048,7 +12048,7 @@ const airdrop = {
     "0x186Ea56F0a40c5593A697B3E804968b8C5920Ff3": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 20000,
     },
     "0x76F577261f01c7c4DC6dabAB11b3970809395EdA": {
       nft: 400,
@@ -12188,7 +12188,7 @@ const airdrop = {
     "0xdA2F80295cF2252C58C8A4b9584931E911Aaa04E": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 301.01,
     },
     "0x1a2E52B033e08914d2a8C34e8882359A1ae7eb46": {
       nft: 400,
@@ -12198,7 +12198,7 @@ const airdrop = {
     "0x505c2b951D87B8969B1Aa797997b96E5471A4E46": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 6622.12,
     },
     "0x5A5aDa555BBa199dB34844C78249A1283F56a58C": {
       nft: 400,
@@ -12233,7 +12233,7 @@ const airdrop = {
     "0x80A0b3a16f8e4F320a4BC3aF69053E723832b39b": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 662.21,
     },
     "0xfff826d97AC92459975bE8FcE9cE91fF850fe045": {
       nft: 400,
@@ -12268,7 +12268,7 @@ const airdrop = {
     "0x5952788924bF35B85d2BAA9509349baaF3159cD7": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 4936.49,
     },
     "0x05B4ca3F7DF84237d8047C24775D406f1157d2Ba": {
       nft: 400,
@@ -12533,7 +12533,7 @@ const airdrop = {
     "0x6a932F0AE2A7A49fb24B70C8Eef6Ec0808163345": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 6321.11,
     },
     "0x5F0ACdE83F858014bc9723B356095E28fc8880B1": {
       nft: 400,
@@ -12668,7 +12668,7 @@ const airdrop = {
     "0x11B8cC31f483Cdf4741de8f3559A472E5fe2299A": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 4876.29,
     },
     "0xB591cDf60103c335A2802eEA7c2eC5C384b135C4": {
       nft: 400,
@@ -12703,7 +12703,7 @@ const airdrop = {
     "0x96e82e6bADEC0b0594DD6bFf7cCcaBFE42339DFe": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 481.61,
     },
     "0x000001f568875F378Bf6d170B790967FE429C81A": {
       nft: 400,
@@ -12973,7 +12973,7 @@ const airdrop = {
     "0x2A1838745821Fe8b26220b43290EF8003A27C543": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 9030.16,
     },
     "0x0c7B5F732501b3Ac2f7832A6008CB7450AA8c92D": {
       nft: 400,
@@ -13118,7 +13118,7 @@ const airdrop = {
     "0x073F6cBc0cC05B09FC3749aEb230d01D74DB219d": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 4274.28,
     },
     "0xdd175a204142040850211B529Dcb9af6eE743e1B": {
       nft: 400,
@@ -13228,7 +13228,7 @@ const airdrop = {
     "0xA40440Af14537BAA96E396Cf76FB5737a7177475": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 180.6,
     },
     "0xbF30c51eE1fD2b682b6aC4Af82e1D6BA29f8cC89": {
       nft: 400,
@@ -13298,7 +13298,7 @@ const airdrop = {
     "0x52217bAD145A7a80D510f24A9572781D260f33D3": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 15832.88,
     },
     "0x134309c4cf57BfA43EF66bF20bD0EEcCDEb2D80c": {
       nft: 400,
@@ -13313,7 +13313,7 @@ const airdrop = {
     "0xEa5aaE54cf3D2519B9C2a48952fC0af65cf0ee55": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 8789.36,
     },
     "0xaD2DCb058f10B4e11611F9c1fC0aA1A532E270D6": {
       nft: 400,
@@ -13353,7 +13353,7 @@ const airdrop = {
     "0xcfc81145CB8c29d0787f4a086f75eb66b851453d": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 361.21,
     },
     "0x1D481E27D4ACdc604e1d104C0000642DF49d44EE": {
       nft: 400,
@@ -13708,7 +13708,7 @@ const airdrop = {
     "0x04E18fDbF180E38953b4126E40d89E5d3261EFEE": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 4214.08,
     },
     "0x63aE43223864d161d429D0c8C8d9190065E1c6Db": {
       nft: 400,
@@ -13808,7 +13808,7 @@ const airdrop = {
     "0xB634Af3EA952ae0d34932Be1B2d1d2C8993Def90": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 7705.74,
     },
     "0x37B64f0858F63182E92E59dbcC4CCdc58a746289": {
       nft: 400,
@@ -13863,7 +13863,7 @@ const airdrop = {
     "0xe32bAC6E393199bb3881187F4feb52e28e973870": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 8729.16,
     },
     "0x3b8f17a43552B3D410F7Abd8b557dA8F574BFc65": {
       nft: 400,
@@ -13883,7 +13883,7 @@ const airdrop = {
     "0x27f2850EE3AbFBbbB6C5857BE954B0002A6E600e": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 60.2,
     },
     "0x5A5057f59546f319fB7c21B3FA2Bd5e5a5E7c535": {
       nft: 400,
@@ -13968,7 +13968,7 @@ const airdrop = {
     "0x2F7A3f2Dda7Fd36ad4D0c002c0E8D7B1Dac668B7": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x48291988c77bccdFD10E216425878a347645a8D5": {
       nft: 400,
@@ -14298,7 +14298,7 @@ const airdrop = {
     "0x564B1ac3aC8407Db3377bEC75Ad7062164c82dB0": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 15772.68,
     },
     "0xbd7d2FD4a3d68B549137D3D573bCD5C61b8F7c25": {
       nft: 400,
@@ -14353,7 +14353,7 @@ const airdrop = {
     "0xDb5D099a6d2f2BC090Fcd258CC564861d552C387": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x9CAd8520B2722B2b904e4e5725B338AE3016febA": {
       nft: 400,
@@ -14398,7 +14398,7 @@ const airdrop = {
     "0xe93735Deb30AAa0810DfdA7fb2B0E2115982B1d1": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x3216b15Fbe43e9Bd51DD3721B2a2Df59fBA521E6": {
       nft: 400,
@@ -14438,7 +14438,7 @@ const airdrop = {
     "0x261E1fbc2D5c7200De55289Dfab9EBBC5fD585be": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 180.6,
     },
     "0xAdbbbBD8fCD37899385f2b27dFe5cc1738990AA1": {
       nft: 400,
@@ -14448,7 +14448,7 @@ const airdrop = {
     "0x97aa098205CC4F50EeB2cdbfA095f4ab239Fd82b": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x0B7a1e683bB5C882722Ef2F332288a10CDA30A95": {
       nft: 400,
@@ -14473,7 +14473,7 @@ const airdrop = {
     "0x294388d7f62065784666F797ca6919a4B8CeF4ab": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xAdE56232f610C9FA0fCd55D3a42F2e4282354341": {
       nft: 400,
@@ -14658,12 +14658,12 @@ const airdrop = {
     "0x0001196FCcC127952FC5a6f3a5D5546C7487F78a": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 1264.22,
     },
     "0xC045E928d24Ba4A1f93B75150d5eFF576ca0c432": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 1926.43,
     },
     "0x72854398920B398365876a910FdBf75B828dcEd2": {
       nft: 400,
@@ -14673,12 +14673,12 @@ const airdrop = {
     "0x4bAd6F2bB235a2c36344CAc9c3A49bbCc9A63D4e": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 3973.27,
     },
     "0xbd094BcD41A7385281698ea83a24224749DE07bE": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 180.6,
     },
     "0x2ce80061dcfE2f30230161DDE8a1Db4c5b29ee80": {
       nft: 400,
@@ -14873,7 +14873,7 @@ const airdrop = {
     "0x24bF6580ED276b6ff33269DD361eE00FE3a2c912": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 8909.76,
     },
     "0xfaBd1A5297Dd3bab7b5E30543aA04bC81FE9ff66": {
       nft: 400,
@@ -14903,7 +14903,7 @@ const airdrop = {
     "0xf1EB2D9b9496813D9579048f19B07850947Cf002": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 15832.88,
     },
     "0x0cdFebFe82B7B2Aa1F6257a4a798a47A90F86db7": {
       nft: 400,
@@ -14958,7 +14958,7 @@ const airdrop = {
     "0xe81B63111A88bf9A5B22832EF594eA7a2D487824": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 120.4,
     },
     "0xA1c0b11B86A46885B87c7ed68b91FAa0C349e1cD": {
       nft: 400,
@@ -14998,7 +14998,7 @@ const airdrop = {
     "0x08f9edd4Feb42eFc388818e68dd525E87462fDb1": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 15652.28,
     },
     "0xa2f3EA4cEe1Feb758AFF8a7A2223b2B8cE4aB640": {
       nft: 400,
@@ -15053,7 +15053,7 @@ const airdrop = {
     "0xA7828C5BAb02C879Ceb555F567d1833b34E1402B": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 722.41,
     },
     "0xBD19a3F0A9CaCE18513A1e2863d648D13975CB30": {
       nft: 400,
@@ -15313,7 +15313,7 @@ const airdrop = {
     "0x839490024e467fA3bAc54ecCB2a1C37Eb3B7A88D": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 11197.4,
     },
     "0x7BD3429450F4d887BD268C757c26Ec90dD3CA9E5": {
       nft: 400,
@@ -15443,7 +15443,7 @@ const airdrop = {
     "0x30b1dB5bF3ACf0eE64B2B274D01AC219a1924534": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x4f7D469a5237bD5fEaE5a3D852eeA4b65E06AAd1": {
       nft: 400,
@@ -15543,7 +15543,7 @@ const airdrop = {
     "0x1193C9F3E10DEFBd5cF956575aAF5aBEAcC1b068": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xbecC81a3F4354B65178E74d384391F6577b1F291": {
       nft: 400,
@@ -15643,7 +15643,7 @@ const airdrop = {
     "0x0e215844C1B0f1fe5863A8545235b6DE33315D28": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 4394.68,
     },
     "0xE0AbdED32A3B4419CE086Fa63ef45f7dC8135496": {
       nft: 400,
@@ -15658,7 +15658,7 @@ const airdrop = {
     "0xDbeF8f238aba02763edfE12564a204363E836dd6": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 1023.42,
     },
     "0x44427397b35e531fc6d83ee990f1BCDF292F3A6c": {
       nft: 400,
@@ -15748,7 +15748,7 @@ const airdrop = {
     "0xaD824Fad1BBd09d833A0386545Ca98C3a1F60A1F": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 6441.51,
     },
     "0xAe5952e913DB0dcfA64FD3F9A6b470AE1552F773": {
       nft: 400,
@@ -15868,12 +15868,12 @@ const airdrop = {
     "0xb5C1213EE9ddf312c98F6e94caF5c421C86AbfF3": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 541.81,
     },
     "0x149f119543239D0b102Bc60e80D0965232229234": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 60.2,
     },
     "0x6ED73292c49A8A5E6AC4913FF333fB2134242d2F": {
       nft: 400,
@@ -15888,12 +15888,12 @@ const airdrop = {
     "0x7Bd7dAd2D1f75AE105eF20c7177c4345b69aE971": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x8a09FB23E1c8d0FF9c9Fef0BcFc9b9e07B1f0667": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 8187.35,
     },
     "0x180c06dE66E2d5bC1bC13ad17634B992F76eA90C": {
       nft: 400,
@@ -15923,7 +15923,7 @@ const airdrop = {
     "0x01aC3FF155739D34948f1af53f24524149c9d928": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x2d8431B03CAe71C10190f34fA8A47B8AD42C2bcA": {
       nft: 400,
@@ -15943,7 +15943,7 @@ const airdrop = {
     "0xDC7C0fA6755BD03AcBDb5ec0E4BDa9b5BC1dF22A": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xba07e5cb42cA05D2fc3D96514461D7245050eb7B": {
       nft: 400,
@@ -15983,7 +15983,7 @@ const airdrop = {
     "0xA3B9Fe8647aa9D7009B9A7Ad1D8D4A2381994eFa": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 120.4,
     },
     "0xB5fcaadCb7970Bc1a679A2e13Df73A666f6fa4f2": {
       nft: 400,
@@ -16123,7 +16123,7 @@ const airdrop = {
     "0xca0b1929A9eafCeE7d676c95Bd65c814D0Da93b1": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xc852271011DAE82AB1a14752754e560a317e8361": {
       nft: 400,
@@ -16153,7 +16153,7 @@ const airdrop = {
     "0x941C64D7c46E83aeF021a82fe3fBEC61d37599Aa": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 2648.85,
     },
     "0x3deF56282310631279AF6372E92837a9Af4e4206": {
       nft: 400,
@@ -16208,7 +16208,7 @@ const airdrop = {
     "0x67836c26651282d9F4650BA80c60b379AFdfc0a0": {
       nft: 400,
       voter: 399,
-      earlyContrib: 0,
+      earlyContrib: 421.41,
     },
     "0x859a8E0aE06b4912Da619938C5469c01d2A2B7DA": {
       nft: 400,
@@ -16268,7 +16268,7 @@ const airdrop = {
     "0x6C51A5Ef1B6736B63c965b3057ae5c5b50De76D3": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 301.01,
     },
     "0xf98fF587fEb37db9e6934DDaf1aB377240430753": {
       nft: 400,
@@ -16338,7 +16338,7 @@ const airdrop = {
     "0x885ea391039e0FA3f6833a1F3B6d7433B5b69bb6": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x2491DbD3C7B198bafbbc3520D048460dF9a61426": {
       nft: 400,
@@ -16353,7 +16353,7 @@ const airdrop = {
     "0x4525508A8d34d75ce7FEB3Afe254f936e70e9a18": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xf613F933220024752f417AB32D6b92821f9bA064": {
       nft: 400,
@@ -16363,7 +16363,7 @@ const airdrop = {
     "0xdffF531873B104db994E69241830bD04C389d9df": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xB9EB47256342622E386Fa41d948dd5ea9c9aC18B": {
       nft: 400,
@@ -16438,7 +16438,7 @@ const airdrop = {
     "0x45A5F6C9372ef4644f5C45DAb0b1A7619F4cF981": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x9b5f1213167cb23532791f1448aA6a04467e17BB": {
       nft: 400,
@@ -16458,7 +16458,7 @@ const airdrop = {
     "0x9e935c13f2865a173E7a2C9E285dB7cc3d8931D8": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 180.6,
     },
     "0x6f3f44440680Cad37C8eF621F1800664febC44E8": {
       nft: 400,
@@ -16478,7 +16478,7 @@ const airdrop = {
     "0x11a0C86B9Af717484973Ae290C69d53b95Fd9528": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xa0F3C492E8491FeDBc8663a83038e3252785994C": {
       nft: 400,
@@ -16493,7 +16493,7 @@ const airdrop = {
     "0x9f2567154CBC7dbFcd4b7585F082c58F2Aad2eCb": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xeaF7814CDf7236Bc5992D19CC455F9C92B00AA9e": {
       nft: 400,
@@ -16588,12 +16588,12 @@ const airdrop = {
     "0xA21D5B40678258f2aBA9b8411f193dD9053eE27f": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xDd59f271e2c905148dAc57416D3Ce781F8a39342": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x9a3b6d9E36e17e020e3ea4fBbcB673C1D53dBEC5": {
       nft: 400,
@@ -16633,7 +16633,7 @@ const airdrop = {
     "0xd7d8cf2415A894769fBA9487fa6a36B627E6FEec": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x05a4448597935c508e4ad0D2CF56d56beDb246Ce": {
       nft: 400,
@@ -16693,7 +16693,7 @@ const airdrop = {
     "0x25619981ba7872278615de45966bd7Ce248F1553": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x4515aC9980f685a9942385b74D42D7169Ae12A29": {
       nft: 400,
@@ -16703,12 +16703,12 @@ const airdrop = {
     "0xf4ed1EF1f7A52DC7Dd10a9B5d43f23748A1E8992": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xe894eC45Fab106b9ECBa507F050a4E107D29189A": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x92e9b91AA2171694d740E7066F787739CA1Af9De": {
       nft: 400,
@@ -16758,7 +16758,7 @@ const airdrop = {
     "0x8504A09352555ff1acF9C8a8D9fB5FDcC4161cbc": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x2de14DB256Db2597fe3c8Eed46eF5b20bA390823": {
       nft: 400,
@@ -16858,7 +16858,7 @@ const airdrop = {
     "0x17adbfE094B96E3665737597F673532C14C41883": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x3Eb4AE2862a8Fc31bAdcC3A32fEcd2F086215A83": {
       nft: 400,
@@ -16883,7 +16883,7 @@ const airdrop = {
     "0x7F65C64EA807901349a7aEbDa4b1F8A282cCA051": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x63dc4f566aD10D88284a9a6cB39d935eaF75ba83": {
       nft: 400,
@@ -17063,7 +17063,7 @@ const airdrop = {
     "0x56Cb75b092b1866ffE4531151Da6e233ae5811E2": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 60.2,
     },
     "0x9A4C18d444dc710828665F2fbfa6301E64412a56": {
       nft: 400,
@@ -17083,7 +17083,7 @@ const airdrop = {
     "0x2b58C475f9917Be368E153cF489E2310e3934d29": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 4635.48,
     },
     "0xC7CB1dd7B1aAadE4a75b69E472c3d8314af4eA4C": {
       nft: 400,
@@ -17153,7 +17153,7 @@ const airdrop = {
     "0x7baf9864ecb3cEc21523508C86a1a3EFcE2408be": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 120.4,
     },
     "0x9620b36841DaCd567032110000a7F090eBf2BCa3": {
       nft: 400,
@@ -17183,7 +17183,7 @@ const airdrop = {
     "0x96e597C1c6bACb7128945bAb9D32FB5eA9526B87": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 60.2,
     },
     "0xF60F6D5aCfaae09e666F0eFAc21b29290e4A9109": {
       nft: 400,
@@ -17248,12 +17248,12 @@ const airdrop = {
     "0x0Bb3cF3925d004686C287C37638F63A0cc3c9b4A": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 60.2,
     },
     "0xbA5261157aD666351c1114ef78eE611710629a33": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 60.2,
     },
     "0x06c4865ab16c9C760622f19a313a2E637E2e66a2": {
       nft: 400,
@@ -17343,7 +17343,7 @@ const airdrop = {
     "0x54b6032105A6DBdcdb21aD4A2707A8909AF153D7": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xcFA6A349a1e9c5f3bF109D5F00232F3855004567": {
       nft: 400,
@@ -17448,7 +17448,7 @@ const airdrop = {
     "0x1B3dfF537b7d46A0d30B1D20b101c483586747AA": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 4755.88,
     },
     "0x2bA1473Cb3973C288312a92FB8930bB0aF2cAe02": {
       nft: 400,
@@ -17533,7 +17533,7 @@ const airdrop = {
     "0x4e18966fc3dc2521870aA29F4A2Dfe26f3Ea6868": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x4515fFF2eEf134Eb62180A0AA1Ba5d6f52BD5543": {
       nft: 400,
@@ -17608,7 +17608,7 @@ const airdrop = {
     "0xA8d79aD0776af22CA8ce12402E02b187e31E5Cf3": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xF54878bbC7c53Dfc1EC6BeC92347167eAe2DBA9e": {
       nft: 400,
@@ -17623,7 +17623,7 @@ const airdrop = {
     "0x6545a8cB2d809f8488e89480DF5055Fb176aa318": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x776A93aaeD72b29Bbc3c57d976B879E816fe1A26": {
       nft: 400,
@@ -17643,7 +17643,7 @@ const airdrop = {
     "0x5475B6F770272f3cABD6a882c300954c767C71F7": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 120.4,
     },
     "0xDF9909BCA51AF6de2199C8Cc776959F1d0d6605E": {
       nft: 400,
@@ -18033,12 +18033,12 @@ const airdrop = {
     "0xf8771BA67F50c1b953e10Be0b303Bd87f7d4B91c": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xF284745F89916a1710ef4C26FF4fFf20528cc486": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xF888f4fAad70F542a80176f8b63438402C937473": {
       nft: 400,
@@ -18068,7 +18068,7 @@ const airdrop = {
     "0xc8E2806A97413b5496A1ba6050b517CC98D0EfCA": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 11317.8,
     },
     "0x63234Cfa7D3D3f6324Ac5E3B4b9630f5B030F5cc": {
       nft: 400,
@@ -18093,12 +18093,12 @@ const airdrop = {
     "0xb56b915971B98ec7d869B6B3aD6f4B2fd9F12492": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 120.4,
     },
     "0x6f3A6D9867d6213056B55CE52B55514215dEb343": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x47D1a4995e54ac6cAF2C6bD20871c1770c81C128": {
       nft: 400,
@@ -18123,12 +18123,12 @@ const airdrop = {
     "0x512aaD1d0E1492a9C4075aBa58cE1a944A74f973": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xDFeBF820bbbf2e90a15C92D815b5D8e10823976F": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 421.41,
     },
     "0x30aD0E26E9633704B94628DBf46032EA3aC2a71a": {
       nft: 400,
@@ -18193,12 +18193,12 @@ const airdrop = {
     "0x6CC95aEF3349C8277985CF010D54AFD14B7F9961": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 60.2,
     },
     "0x9d85eD0d612aB149BBE1a38A3FC72AAe3CaC13F1": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 11438.2,
     },
     "0xAD5bBEd1018A3245499c0BAB98971d2a0758ef43": {
       nft: 400,
@@ -18238,7 +18238,7 @@ const airdrop = {
     "0x806164c929Ad3A6f4bd70c2370b3Ef36c64dEaa8": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 4394.68,
     },
     "0x2F60d06Fa6795365B7b42B27Fa23e3e8c8b82f66": {
       nft: 400,
@@ -18278,7 +18278,7 @@ const airdrop = {
     "0x5ed86506FF1244bb3aC0C309D5Fc5AE6C0375464": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x1dc4CEE8ec49E6720eCB42cBfd9B06A8Ca5a3fD9": {
       nft: 400,
@@ -18553,7 +18553,7 @@ const airdrop = {
     "0xa635c856481b4b6f202Ff0A3AD7e4128f983e6AD": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x3bb9ABADcE7e416e3286dFA1fa8DbFcF290eb809": {
       nft: 400,
@@ -18588,17 +18588,17 @@ const airdrop = {
     "0xB56e034553CE2590E98E41c5508c059Ef8F7b5EE": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x7F51c8447eE363d7bE2705163CC81f524685A008": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x299E6717bdA29B742bceb3Eb3ac36eba9aD9AB31": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xA5d23180ff67cD94621407F7868c1fc31C4afaDf": {
       nft: 400,
@@ -18718,7 +18718,7 @@ const airdrop = {
     "0xe8E83Ddfc373BBBD22eDF5A80a30eC7DEd8f2b47": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x804410298B1fe07479804B4fEbAF42A079552d6A": {
       nft: 400,
@@ -18783,7 +18783,7 @@ const airdrop = {
     "0x2f29c316e0fFf43a236fB45A5c1233CE25e4f981": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 120.4,
     },
     "0xeb9e66719812D2B4182c45cEee19883d168A4705": {
       nft: 400,
@@ -18798,7 +18798,7 @@ const airdrop = {
     "0xbCD2B563Cdf515a52F64D2eF9e943B81BEb91ce3": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xC4eA94bF422634469EC9912686Baf26Ccb8D41D4": {
       nft: 400,
@@ -19053,7 +19053,7 @@ const airdrop = {
     "0x416365993481e52e0472e7417656276d4E147A00": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x510308289da7269a543BB9813afB8B9a82180318": {
       nft: 400,
@@ -19213,7 +19213,7 @@ const airdrop = {
     "0xf85ea6Bb6C717e733e91760f19D5f4AC382eeeD5": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 2468.24,
     },
     "0x5398152E8B70f757c4EeBf20A85046245236a2Ac": {
       nft: 400,
@@ -19408,7 +19408,7 @@ const airdrop = {
     "0x207053a23d86fe3697dC073461f293894a931a72": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x17E32FdB2c47B2e46245e3ad25228cd3FAff230f": {
       nft: 400,
@@ -19828,7 +19828,7 @@ const airdrop = {
     "0x05Bc464DD87EaE19406BeC2eDB934483302D97d4": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 662.21,
     },
     "0x6E9A88971e957Abb41bAe4E2677caE258F0c1e76": {
       nft: 400,
@@ -19923,7 +19923,7 @@ const airdrop = {
     "0x272F1c8850df46D83b240d5D9F0Dcf460980670E": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 60.2,
     },
     "0xb3541aa3247304DCCe993b9b8Bd1Ee3C7Dc49367": {
       nft: 400,
@@ -20073,7 +20073,7 @@ const airdrop = {
     "0x27AD04D192eF122A50D7ac96f6f1295c224Dc15d": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xB4167B293Ea161B81D7856c1cf7687503E49C9F3": {
       nft: 400,
@@ -20178,7 +20178,7 @@ const airdrop = {
     "0x6F533032f9087DAc099e093200c827DE6fc6Ed8C": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 421.41,
     },
     "0xfdd45792f3B8481956A62dD15D280D140F26Aac0": {
       nft: 400,
@@ -20288,7 +20288,7 @@ const airdrop = {
     "0x194a494753F512DF2EE2114307b36d5620C04137": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 2829.45,
     },
     "0xEE68929fBE5F0601364A20AaB13eA570a079857D": {
       nft: 400,
@@ -20348,7 +20348,7 @@ const airdrop = {
     "0x70F296395dDAEF1b27243c2cF78b935735aD9cc1": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 1023.42,
     },
     "0x2b6F63b74660ab40E6d2f73A9adb37c3F08De4dB": {
       nft: 400,
@@ -20758,7 +20758,7 @@ const airdrop = {
     "0x747bAe1E5b053cC6908F318587A2E317732e06e2": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x6C71679995103a0e0e21DA85dD9A7e422bC3064B": {
       nft: 400,
@@ -20813,7 +20813,7 @@ const airdrop = {
     "0x8590C609942cd772b047025209955663470BE132": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 2046.84,
     },
     "0xA7CC7E31227FE804156C87b2De301fBc4e7A1f4b": {
       nft: 400,
@@ -20898,7 +20898,7 @@ const airdrop = {
     "0x5eBfb1b4376e787D472Af49aE070A1170f095eE9": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 180.6,
     },
     "0xB136041aA5F59945A98f7f72b931c1e3b6A50377": {
       nft: 400,
@@ -20943,7 +20943,7 @@ const airdrop = {
     "0xCe2EF28C65e5Db090d75630c98A807da003fb36f": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 240.8,
     },
     "0x8FF5584997CE7ED71f4604f64534eA1b37B4a2C9": {
       nft: 400,
@@ -20993,7 +20993,7 @@ const airdrop = {
     "0x727729c7A9cA5Df70AC7dcb16A27DD2817956F26": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 481.61,
     },
     "0xE7dacC335483667489Bf67261F723e7dA9197c95": {
       nft: 400,
@@ -21008,7 +21008,7 @@ const airdrop = {
     "0x9038Fe23C937D1610f90DbA98659B8722CeC432f": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xF7E51D0E55B6793fc2865C2a7E8318ABa864e454": {
       nft: 400,
@@ -21043,7 +21043,7 @@ const airdrop = {
     "0x32bb0a64427E16002d21592c07bbe2c9dB683610": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x91b68339914a29c017F9e5c8B2E1739306152fB9": {
       nft: 400,
@@ -21053,12 +21053,12 @@ const airdrop = {
     "0x44b679DF5CEcD2f87584db73022052f35532B622": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x6B87FfcbE0dFC9009123160FE0c70F7B4f24FfD6": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 60.2,
     },
     "0xa741296A1E9DDc3D6Cf431B73C6225cFb5F6693a": {
       nft: 400,
@@ -21138,12 +21138,12 @@ const airdrop = {
     "0x02E052679578006663D478Fae910081209b4026c": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xffe885E77Fd52cc2821AD2B7Eef0051c53f4930E": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x6eBA5B898e9E24C1Fd0062025eD96fA751170eC4": {
       nft: 400,
@@ -21163,12 +21163,12 @@ const airdrop = {
     "0xc8F20C9105410069C11EDEd2C05E1B2608103b25": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 20000,
     },
     "0x66E9f0B2079fC5aCf5583D394436c9e21A9e9C57": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x15CbCfBc5aeaD21de1A44172c16Ddab46EB4Dc0D": {
       nft: 400,
@@ -21193,7 +21193,7 @@ const airdrop = {
     "0x9a25755a945CCD8877d509c2cD32FAd3090dE60F": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 3250.86,
     },
     "0x38c5E856440C5444Aa5774d1B6D4088a6388836f": {
       nft: 400,
@@ -21203,7 +21203,7 @@ const airdrop = {
     "0x6C13FC8EF50144A21702415d57ece0A09879fCFb": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x02F67abe026Ae9176720c67280de43383A6C7F84": {
       nft: 400,
@@ -21213,7 +21213,7 @@ const airdrop = {
     "0x333d07032CB8B4235910cB5050A7715C6601BA57": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 421.41,
     },
     "0x831B07B2b6e4925C240eF6cD139eaf8821761ADB": {
       nft: 400,
@@ -21273,7 +21273,7 @@ const airdrop = {
     "0xe3e02123a4126de661af887eEE222498C6442FFc": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x3Ee24d753c6ff3B7fBD3064208213F46f5d56bc7": {
       nft: 400,
@@ -21283,7 +21283,7 @@ const airdrop = {
     "0x621752f25aBd2E13136275F0059e4d9ae4DC08B7": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 481.61,
     },
     "0x8D6057A47c0CD225A5dF2F1b5D56023545c12F1a": {
       nft: 400,
@@ -21393,7 +21393,7 @@ const airdrop = {
     "0x0eFb002736B5BB34D190f00Ca50Ad42b0B1c6489": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x62a29Fe8F192B48166f035593eB5507Bb2251Aff": {
       nft: 400,
@@ -21413,7 +21413,7 @@ const airdrop = {
     "0x85684C11FD750506CD8783a7cDC19Bc583ce62f8": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xF90F8725237125ecefE5696cd2B54D9D6934D467": {
       nft: 400,
@@ -21433,12 +21433,12 @@ const airdrop = {
     "0x70F9E695823A748D0f492c86bE093c220a8d487a": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x9a5b22e70D1513d1671Ea4B70861B9DD4044AF86": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xd36269BeF500003F8f21191B3F7C5982DC87f803": {
       nft: 400,
@@ -21458,7 +21458,7 @@ const airdrop = {
     "0xFc4C741FEB8d60976Fe8e4ba70B307B0061f3c00": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 180.6,
     },
     "0x260d2fb8c006d2Ec9B9fa7b41f3F01F981a0adc5": {
       nft: 400,
@@ -21588,7 +21588,7 @@ const airdrop = {
     "0x094a9009Fe93A85658E4b49604fD8177620F8Cd8": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 361.21,
     },
     "0xc0A819890303AE6F4ff5D4103eE76F9756661765": {
       nft: 400,
@@ -21738,7 +21738,7 @@ const airdrop = {
     "0x685d9638f22b552E1f9fe4e1325970Fc07E52993": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xbDc6D5Ad5d278C4Ee57DCeE3a0cecD9530B900d5": {
       nft: 400,
@@ -21848,7 +21848,7 @@ const airdrop = {
     "0x30C7F4F7504D6366916f669cd8E731ED4dF6C702": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 421.41,
     },
     "0x26d3bE736aB6b5D8A3266fFCC0895dDc1bc19a38": {
       nft: 400,
@@ -21898,7 +21898,7 @@ const airdrop = {
     "0x8071Ed00bf71D8A9a3ff34BEFbbDFf9DF6f72E65": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 240.8,
     },
     "0x9C0177e8dDA1D562149F33B6Af8014228ca11E44": {
       nft: 400,
@@ -22253,7 +22253,7 @@ const airdrop = {
     "0x1AF56e6CE4f72765905586FA567B09CA4813C28d": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 3672.27,
     },
     "0x78ac9c2545850bEDbC076EB30ce7A6f0D74b395E": {
       nft: 400,
@@ -22398,7 +22398,7 @@ const airdrop = {
     "0x2a2CB6d5b469bAeB5DAaBbD0bCE297Fd7041254A": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x1b3eFCD48AA4C56A78b082d64E4c1992B56C8146": {
       nft: 400,
@@ -22568,7 +22568,7 @@ const airdrop = {
     "0x37Bc0f3cA2087d80e04C8f1f58F99FB9B598bd99": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 9150.56,
     },
     "0xf4b492FbA82448f9F327cd6cdb064F24Baa52e26": {
       nft: 400,
@@ -22578,12 +22578,12 @@ const airdrop = {
     "0xC99Bd88526A29f574D297A931F8232b53B5670dD": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 481.61,
     },
     "0xF95f8038Eb7874Cde88A0A9a8270fcC94f5C226e": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 6561.92,
     },
     "0x969eA33D9cB9D7E2358C685b621f45eb35eAD0DC": {
       nft: 400,
@@ -23008,7 +23008,7 @@ const airdrop = {
     "0xd4c4f5e108D09f4383f431D143E75EcabB703F2A": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 541.81,
     },
     "0x9080196182F77B89BB5B0EeE3Ddb48cFA716c4c3": {
       nft: 400,
@@ -23258,12 +23258,12 @@ const airdrop = {
     "0x95E17E827dF0B113D11d48Ee1771FF134F770dA9": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 20000,
     },
     "0x7934b4344D6308Dc7AecD2f8Cfe006ED87550422": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x4b793C4003d5E7efec37E0E1B0Ea8FfB535F3956": {
       nft: 400,
@@ -23628,7 +23628,7 @@ const airdrop = {
     "0x2245bE89Fc8faB94ed982e859Aa3212A4e4eB7e5": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 301.01,
     },
     "0xbB732f85f57800e3EB4Ed37bAa57849f4EC3481A": {
       nft: 400,
@@ -23713,7 +23713,7 @@ const airdrop = {
     "0xb4D8063B3446CEC0C536208807241767A0eA6D18": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x69cDFf4cD34Bf651A87b27ccF44A02f28A0baFaF": {
       nft: 400,
@@ -23768,7 +23768,7 @@ const airdrop = {
     "0x72cA8cEcAE2a33F390f7ef6c3B5B4e0b036B14ef": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xF201B83ab58B2e72cDcf8ffFfd05fDC43032ABEe": {
       nft: 400,
@@ -23778,7 +23778,7 @@ const airdrop = {
     "0x709680F22D2B95267764db0e1385B59525d7f4D8": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 421.41,
     },
     "0xB9404a49E9b865F05ad81b6192Dd8e7d2ED5A35C": {
       nft: 400,
@@ -23793,7 +23793,7 @@ const airdrop = {
     "0x291aAB2e87A52FCAB64913329b9269dA907640df": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x727b7565a8169699755e39b8b100eEFE423aEf90": {
       nft: 400,
@@ -23843,7 +23843,7 @@ const airdrop = {
     "0xB2F456886367c8e50566377ec6d9293D4Da5bb81": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x5eE42438d0D8fc399C94ef3543665E993e847b49": {
       nft: 400,
@@ -23868,7 +23868,7 @@ const airdrop = {
     "0x0813E1B0a5B1D0D67cEAc68696591f5aECc613c7": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x3bC4dA0dC0892Ea203Ae13dF349555A592867bdd": {
       nft: 400,
@@ -23878,7 +23878,7 @@ const airdrop = {
     "0x9EEd555A7b54471a0808CEC8d176980323674BC8": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xf540eA05395Bf05D4b686dDb69dA04037E01Ab73": {
       nft: 400,
@@ -23893,7 +23893,7 @@ const airdrop = {
     "0x7F9951a408C3384ae8D8E3f6A2D2f60f53e7eeB0": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x1DdF625C01bBDf22bdD5CAb7f25D0db14F450CC4": {
       nft: 400,
@@ -23903,7 +23903,7 @@ const airdrop = {
     "0xD748A10439DeE0A594b731aAF3c956e56391211a": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x75Ce8Bef2E3Eca07E06aD29ABfe44f07af3e9AAB": {
       nft: 400,
@@ -23913,7 +23913,7 @@ const airdrop = {
     "0x6face1420A8683be8341a2F43E29469199E54bEe": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 240.8,
     },
     "0x3643680D5D1b969a63A1902322080dbab8b7489F": {
       nft: 400,
@@ -23983,7 +23983,7 @@ const airdrop = {
     "0x7b072a6a022478446ac76B01aA8e75EE547cC0F7": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 2588.65,
     },
     "0x673Fdacc90a559cA94A41B2aA2156DA5f7d81438": {
       nft: 400,
@@ -24128,7 +24128,7 @@ const airdrop = {
     "0x2Caefce8cF1D7C3AB072BA13934FA6D08d54ba6F": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 180.6,
     },
     "0xF3DA48a5939e6578CC617203fD5d29e913A09Af2": {
       nft: 400,
@@ -24533,12 +24533,12 @@ const airdrop = {
     "0xeba4797Ce6d748FC67Fa8448610934a0413CC3B9": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 481.61,
     },
     "0x53734E2140e062948Cf05E86db8cee2190166062": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x619BADCC894b7eDC60100a4E49ad4AFa20De889D": {
       nft: 400,
@@ -24633,7 +24633,7 @@ const airdrop = {
     "0xe0450b049F70841aEC78Ac6e3db7b0a753e22357": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 15531.88,
     },
     "0xa7CC8Da2A472612aEB25218a4fB9d995Fa3472a6": {
       nft: 400,
@@ -24838,7 +24838,7 @@ const airdrop = {
     "0xeB85F308aD30dcD3Ce91096CBB5EE1af09e902Da": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 180.6,
     },
     "0x1da2E3D26CA0d6D13e4C58730ab8541941fC0011": {
       nft: 400,
@@ -24858,17 +24858,17 @@ const airdrop = {
     "0xb0419291B62b2D31e12CDe1572280dC328CBb831": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 120.4,
     },
     "0x60E9301074973bD9F2d5a03e84a75d1d462a0610": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 3491.66,
     },
     "0x5Dc4bFC95024398d11366308300F6Fa7Db3a53ee": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 722.41,
     },
     "0xF0f15Cedc719B5A55470877B0710d5c7816916b1": {
       nft: 400,
@@ -24908,7 +24908,7 @@ const airdrop = {
     "0xCc39f4f4A764B118E1a39E2Def59559e0F886aa3": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 1264.22,
     },
     "0xbdCf587D64a0dBA2867159ba1A755EA0F9c7D97a": {
       nft: 400,
@@ -25038,7 +25038,7 @@ const airdrop = {
     "0xb62241A978D41E35F008B0E165Cf5cBe43e9feEB": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 120.4,
     },
     "0x9D4EEB86B7A8697CAfBafC250eAe8B125ddddA87": {
       nft: 400,
@@ -25268,7 +25268,7 @@ const airdrop = {
     "0x954E128f3e3d85ba3aDaFB9d53e7c060833e2Bb0": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 1565.23,
     },
     "0x999B85b7C9393A42be51B86fE13c3dcAc4E0Ed14": {
       nft: 400,
@@ -25543,7 +25543,7 @@ const airdrop = {
     "0x8865d9736Ad52c6cdBbEA9bCd376108284CFd0e4": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xFf36226fBa71CB1FAa83A328597B81BA0B67A0D9": {
       nft: 400,
@@ -25598,7 +25598,7 @@ const airdrop = {
     "0x3dD3e6e190E5cFf0856dE30bf63924dABDf51264": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 421.41,
     },
     "0xadc6ECa34605c5a49A0944AabFeBAebf33479f73": {
       nft: 400,
@@ -25608,7 +25608,7 @@ const airdrop = {
     "0x0F3E2EA3f28704D99629A4Bc6279d98B691b840e": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xDd7e0E080dD06F0FB9FBC145Cd1DB145c30d4338": {
       nft: 400,
@@ -25683,7 +25683,7 @@ const airdrop = {
     "0xC673db815B92275eFc6fA083fEa7C55215519464": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 180.6,
     },
     "0x7C4D93672Cb5942B47b428e7887E47e5208aAD5b": {
       nft: 400,
@@ -25823,7 +25823,7 @@ const airdrop = {
     "0xf1086DE491a6E986C058cE91E2757DEd0d4E8366": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 6260.91,
     },
     "0xF79F333Bed81b00A7FDc564F985E48fe26eB61ff": {
       nft: 400,
@@ -26008,7 +26008,7 @@ const airdrop = {
     "0x6A4791244541227a3d80D5f5BB07B0ab7295F753": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 4274.28,
     },
     "0x138Cb7a2b9E8e4B1A7994D08EA6475C2d2Ea3950": {
       nft: 400,
@@ -26048,7 +26048,7 @@ const airdrop = {
     "0xfcb23F995FA4c8121b806B7030f1F238D188F861": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x19Eda054aF3D6965820D982067D2AAB5Daca8EB8": {
       nft: 400,
@@ -26158,7 +26158,7 @@ const airdrop = {
     "0xebec61e71C471ec30083a53675BeC64358dC1605": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xe648f00266678CB3aCB03BA73221b3ea522af385": {
       nft: 400,
@@ -26213,7 +26213,7 @@ const airdrop = {
     "0x171C8bE8b92674F7d7B0593ACA4619a25a40b6F0": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 180.6,
     },
     "0x6F4343709651163337A32ea4e645DE1FF26E6650": {
       nft: 400,
@@ -26268,7 +26268,7 @@ const airdrop = {
     "0x0a51449654b8f2364931Db66cB2B35bc66a66eBA": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xC49cc247318D18c541ef406aC1646D234245A6D1": {
       nft: 400,
@@ -26308,7 +26308,7 @@ const airdrop = {
     "0x3401Fa8DD22E32b0853354a4Cd17681bDC520615": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x6fe8668167697a77869320729336140116AedAc0": {
       nft: 400,
@@ -26348,7 +26348,7 @@ const airdrop = {
     "0xAc57C093c9e914e338cfA75e2803c0bA6f324426": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xCb05cf0517Ec1B436f18AC34A08358765A8efb72": {
       nft: 400,
@@ -26388,12 +26388,12 @@ const airdrop = {
     "0x358AF75741F75140FAEDdE986e5d21b11724Bd42": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xb7FA46bd0Ae3EE01C5b4d17ca3723dE061C988Bc": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x7f86C79c1D458B03c14e5a6C658100283a1c3cc1": {
       nft: 400,
@@ -26423,7 +26423,7 @@ const airdrop = {
     "0x24b3e9984Eb93c207BE67Be0b632A24F07a0703F": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0xdc486F4359934A05d1EB71Ccc339Cb9a9fB544f7": {
       nft: 400,
@@ -26448,7 +26448,7 @@ const airdrop = {
     "0xEDB7AF625443Bec75d53544e091Ee3492ede8BC2": {
       nft: 400,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 602.01,
     },
     "0x5b3E64a14889Ba424C0cC8B4Feaf26cAE860D712": {
       nft: 400,
@@ -26610,15 +26610,165 @@ const airdrop = {
       voter: 399,
       earlyContrib: 0,
     },
-    "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC": {
-      nft: 400,
+    "0xC62E3910B060205fdE6A02B2352d82019E843CC0": {
+      nft: 0,
       voter: 0,
-      earlyContrib: 0,
+      earlyContrib: 11739.21,
     },
-    "0x90F79bf6EB2c4f870365E785982E1f101E93b906": {
-      nft: 400,
-      voter: 399,
-      earlyContrib: 0,
+    "0xa93Ae3a2cE1714F422eC2d799c48A56b2035C872": {
+      nft: 0,
+      voter: 0,
+      earlyContrib: 9210.76,
+    },
+    "0x6085D7eF56Be668f1A6D5f1E7858B71DF853e39f": {
+      nft: 0,
+      voter: 0,
+      earlyContrib: 8849.56,
+    },
+    "0xFC5446EfE679f109f2772e45EA623CaA63791d5e": {
+      nft: 0,
+      voter: 0,
+      earlyContrib: 8006.74,
+    },
+    "0x64DcdbA9E1eF3A37255a7A1b57Aa157056eE033B": {
+      nft: 0,
+      voter: 0,
+      earlyContrib: 7525.13,
+    },
+    "0x755eE2e014ddf1b5903CB4EE6e51680A5a34C978": {
+      nft: 0,
+      voter: 0,
+      earlyContrib: 5899.71,
+    },
+    "0xd6E4B6Add79Ef60714886Ad59728E55fbB89636B": {
+      nft: 0,
+      voter: 0,
+      earlyContrib: 5598.7,
+    },
+    "0x10ea167893cb51500Ec829222E3D17a968FEB650": {
+      nft: 0,
+      voter: 0,
+      earlyContrib: 3913.07,
+    },
+    "0x06A1E83832aD7De314b4f82EfbC9591D0670A1e2": {
+      nft: 0,
+      voter: 0,
+      earlyContrib: 2588.65,
+    },
+    "0xf0c18acF5c7c25Eb24325F4f96d10Fe2C2236A5a": {
+      nft: 0,
+      voter: 0,
+      earlyContrib: 2347.84,
+    },
+    "0xF56c68872e941C341025D9907D4821f9C8087166": {
+      nft: 0,
+      voter: 0,
+      earlyContrib: 1264.22,
+    },
+    "0x2cE9B798c47086EF7691d3f15331949F401f9CC0": {
+      nft: 0,
+      voter: 0,
+      earlyContrib: 662.21,
+    },
+    "0xfb7db943B7c2F08Ef390956E33f9DE5a8Ed77ef3": {
+      nft: 0,
+      voter: 0,
+      earlyContrib: 602.01,
+    },
+    "0x6921340c3528d7aA848cDB1D455646b9e40B70Cd": {
+      nft: 0,
+      voter: 0,
+      earlyContrib: 602.01,
+    },
+    "0xadD4d63E07BAD8539dB75166e80A2b0760b60E22": {
+      nft: 0,
+      voter: 0,
+      earlyContrib: 602.01,
+    },
+    "0x43A4878215B0fB9bF687B5A7338D5D24D33dfFb1": {
+      nft: 0,
+      voter: 0,
+      earlyContrib: 602.01,
+    },
+    "0x01974549C9B9a30d47c548A16b120b1cAa7B586C": {
+      nft: 0,
+      voter: 0,
+      earlyContrib: 602.01,
+    },
+    "0x0519FAc64F8c4e99F598611Aaa959aA0DCe36371": {
+      nft: 0,
+      voter: 0,
+      earlyContrib: 602.01,
+    },
+    "0x3fCDCA1Dfb729C1450677A905De859285CD77cA6": {
+      nft: 0,
+      voter: 0,
+      earlyContrib: 602.01,
+    },
+    "0x17351248aaDC7c33562e0E303C28288Eb19cC8f1": {
+      nft: 0,
+      voter: 0,
+      earlyContrib: 602.01,
+    },
+    "0x721C7ffFe9aC426A028e616677811F755Fa99EbA": {
+      nft: 0,
+      voter: 0,
+      earlyContrib: 602.01,
+    },
+    "0x52e5b829D93a0D37b47b737c562D9626c9B4c592": {
+      nft: 0,
+      voter: 0,
+      earlyContrib: 602.01,
+    },
+    "0xF89Fc7C27F885185AFA09A38B29DAa1BdAF32d4A": {
+      nft: 0,
+      voter: 0,
+      earlyContrib: 602.01,
+    },
+    "0xB277D567faC3648b97A3b3658D829d60fF052418": {
+      nft: 0,
+      voter: 0,
+      earlyContrib: 602.01,
+    },
+    "0x036F67Fcc84EAE8D0edbA9AAdE6D8987cca48a4a": {
+      nft: 0,
+      voter: 0,
+      earlyContrib: 602.01,
+    },
+    "0x9eA0588c5C29Cc4cBaf235d185095439f0722202": {
+      nft: 0,
+      voter: 0,
+      earlyContrib: 541.81,
+    },
+    "0xAa85759554F6B3DbC274CC35621b52E85F644CA7": {
+      nft: 0,
+      voter: 0,
+      earlyContrib: 481.61,
+    },
+    "0x38F77B8A636Eb70066d33937b12b801c97Ed777f": {
+      nft: 0,
+      voter: 0,
+      earlyContrib: 361.21,
+    },
+    "0xDc04599b4AA011e3eAdABF14D4A2Daa053A58636": {
+      nft: 0,
+      voter: 0,
+      earlyContrib: 301.01,
+    },
+    "0x3c96a50281655CCa28A11e624420a56B3031E037": {
+      nft: 0,
+      voter: 0,
+      earlyContrib: 120.4,
+    },
+    "0x8F004F5A2B12eB26CC77291AA879c42A4af1Ae6D": {
+      nft: 0,
+      voter: 0,
+      earlyContrib: 60.2,
+    },
+    "0xD0a8fa32377Ba4A31464ab04d31bfCF6C4853ea3": {
+      nft: 0,
+      voter: 0,
+      earlyContrib: 60.2,
     },
   },
 };

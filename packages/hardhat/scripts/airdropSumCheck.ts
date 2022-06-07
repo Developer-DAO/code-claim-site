@@ -16,7 +16,7 @@ async function main() {
   }, 0);
   console.log(airdropSum);
 
-  assert(airdropSum == EXPECTED_SUM);
+  assert(airdropSum <= EXPECTED_SUM);
 }
 
 main()
