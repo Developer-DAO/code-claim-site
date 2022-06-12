@@ -1,3 +1,4 @@
+[![MythXBadge](https://badgen.net/https/api.mythx.io/v1/projects/b24b61fa-1d1f-492c-aad9-8eb7bdbea289/badge/data?cache=300&icon=https://raw.githubusercontent.com/ConsenSys/mythx-github-badge/main/logo_white.svg)](https://docs.mythx.io/dashboard/github-badges)
 # DeveloperDAO $CODE contract & claim site
 
 A monorepo containing both the $CODE token contract & the claim web app.
