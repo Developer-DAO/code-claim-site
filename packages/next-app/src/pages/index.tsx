@@ -91,7 +91,7 @@ const Home: NextPage = () => {
             position="relative"
             zIndex="1"
           >
-            <Flex mt={["32px", "48px"]} mb="22vh">
+            <Flex mt={["32px", "48px"]}>
               <Logo />
               {isMobile && (
                 <>
@@ -100,8 +100,12 @@ const Home: NextPage = () => {
                 </>
               )}
             </Flex>
-
-            <MainBox isConnected={isConnected} isUnsupported={isUnsupported} />
+            <Flex align="center" h="full" justify="center">
+              <MainBox
+                isConnected={isConnected}
+                isUnsupported={isUnsupported}
+              />
+            </Flex>
             <Center position="absolute" bottom="0" left="0" right="0">
               {isMobile && isSupportedNetwork && isConnected && (
                 <Image

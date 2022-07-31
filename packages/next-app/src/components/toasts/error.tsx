@@ -1,7 +1,6 @@
-import { Box, Flex, Text, Link, keyframes } from "@chakra-ui/react";
+import { Box, Flex, Text, Link } from "@chakra-ui/react";
 
 import { WarningTwoIcon } from "@chakra-ui/icons";
-import { bounceAnimation } from "@/chakra.config";
 
 export const ErrorToast = ({
   message,
@@ -21,9 +20,8 @@ export const ErrorToast = ({
     borderRadius="lg"
     border="2px"
     borderColor="#FF0042"
-    animation={bounceAnimation}
   >
-    <Flex mx="5" alignItems={"center"}>
+    <Flex align="center" justify="center" my="2">
       <WarningTwoIcon mr="5" color="#FF0042" />
       <Text fontSize="sm">
         {message}

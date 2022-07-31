@@ -8,7 +8,7 @@ interface MainBoxProps {
 }
 
 export const MainBox = ({ isConnected, isUnsupported }: MainBoxProps) => (
-  <Box my={["24px", "0"]} w="100%">
+  <Box w="100%" mt="-120px">
     <Heading as="h1" color="white" fontSize={["44px", "96px"]} fontWeight="500">
       Airdrop
     </Heading>

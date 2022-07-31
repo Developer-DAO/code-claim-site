@@ -24,12 +24,21 @@ const Avatar = ({
     imageUrl === undefined ||
     imageUrl.length === 0;
   return shouldShowPlaceholder ? (
-    <Box
-      background="gray.200"
-      w={["100px", "130px"]}
-      h={["100px", "130px"]}
-      borderRadius="16px"
-    />
+    <Flex align="center" justify="center">
+      <Box
+        background="gray.200"
+        w={["100px", "130px"]}
+        h={["100px", "130px"]}
+        borderRadius="16px"
+      />
+      <Image
+        src="assets/placeholder-avatar.svg"
+        alt="check"
+        w={["52px", "64px"]}
+        h={["52px", "64px"]}
+        position="absolute"
+      />
+    </Flex>
   ) : (
     <Image
       src={imageUrl}
@@ -119,7 +128,7 @@ export const Header = ({
 }) => (
   <Flex align="center">
     <Avatar imageUrl={image} showPlaceholder={showPlaceholder} />
-    <Flex direction="column" ml={"20px"}>
+    <Flex direction="column" ml={"24px"}>
       {showLabel && (
         <Flex align="center">
           <Image
@@ -257,7 +266,6 @@ export const ClaimedView = (props: ClaimedViewProps) => {
           >
             <Text>VIEW CLAIM TRANSACTION</Text>
           </Button>
-
           <Button
             borderRadius="12px"
             borderColor="#08010D"
